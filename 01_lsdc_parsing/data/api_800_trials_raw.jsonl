@@ -1,0 +1,949 @@
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 7, "total": 8, "rate": 0.875, "raw": "No\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 1}
+{"ok": true, "correct": 7, "total": 8, "rate": 0.875, "raw": "No\nNo\nNo\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 8, "total": 9, "rate": 0.8888888888888888, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 10, "total": 11, "rate": 0.9090909090909091, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 0}
+{"ok": true, "correct": 10, "total": 12, "rate": 0.8333333333333334, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 4}
+{"ok": true, "correct": 11, "total": 12, "rate": 0.9166666666666666, "raw": "No\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 4}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "raw": "No\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 4}
+{"ok": true, "correct": 12, "total": 13, "rate": 0.9230769230769231, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 0}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 1}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 1}
+{"ok": true, "correct": 13, "total": 16, "rate": 0.8125, "raw": "Yes\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 1}
+{"ok": true, "correct": 13, "total": 15, "rate": 0.8666666666666667, "raw": "No\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 3}
+{"ok": true, "correct": 12, "total": 16, "rate": 0.75, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 17, "rate": 0.9411764705882353, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 0}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 3}
+{"ok": true, "correct": 16, "total": 17, "rate": 0.9411764705882353, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 1}
+{"ok": true, "correct": 16, "total": 17, "rate": 0.9411764705882353, "raw": "No\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 2}
+{"ok": true, "correct": 15, "total": 17, "rate": 0.8823529411764706, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 4}
+{"ok": true, "correct": 14, "total": 17, "rate": 0.8235294117647058, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 3}
+{"ok": true, "correct": 14, "total": 16, "rate": 0.875, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 0}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 0}
+{"ok": true, "correct": 15, "total": 18, "rate": 0.8333333333333334, "raw": "Yes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 1}
+{"ok": true, "correct": 15, "total": 18, "rate": 0.8333333333333334, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 2}
+{"ok": true, "correct": 15, "total": 19, "rate": 0.7894736842105263, "raw": "No\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 1}
+{"ok": true, "correct": 17, "total": 19, "rate": 0.8947368421052632, "raw": "Yes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 2}
+{"ok": true, "correct": 16, "total": 19, "rate": 0.8421052631578947, "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 3}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 3}
+{"ok": true, "correct": 16, "total": 20, "rate": 0.8, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 19, "total": 20, "rate": 0.95, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 4}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 3}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "raw": "No\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 4}
+{"ok": true, "correct": 15, "total": 19, "rate": 0.7894736842105263, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 0}
+{"ok": true, "correct": 13, "total": 19, "rate": 0.6842105263157895, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 2, "total": 3, "rate": 0.6666666666666666, "raw": "No\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 4, "rate": 0.75, "raw": "No\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 18, "total": 20, "rate": 0.9, "raw": "No\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 16, "total": 20, "rate": 0.8, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 16, "total": 20, "rate": 0.8, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. Yes\n6. No\n7. Yes\n8. No\n9. No", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. No\n2. Yes\n3. No\n4. No\n5. No\n6. No\n7. Yes\n8. No\n9. Yes\n10. No", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. Yes\n9. Yes\n10. No", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. No\n2. No\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. No\n9. Yes\n10. No", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 10, "total": 11, "rate": 0.9090909090909091, "raw": "1. No\n2. Yes\n3. Yes\n4. No\n5. Yes\n6. No\n7. No\n8. No\n9. No\n10. No\n11. Yes", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. Yes\n9. No\n10. No\n11. Yes", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-7B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 9, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 10, "total": 11, "rate": 0.9090909090909091, "raw": "No\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 3}
+{"ok": true, "correct": 10, "total": 11, "rate": 0.9090909090909091, "raw": "No\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 1}
+{"ok": true, "correct": 11, "total": 12, "rate": 0.9166666666666666, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 13, "rate": 0.9230769230769231, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 11, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 2}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 2}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "raw": "No\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 13, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 4}
+{"ok": true, "correct": 14, "total": 15, "rate": 0.9333333333333333, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 1}
+{"ok": true, "correct": 13, "total": 15, "rate": 0.8666666666666667, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 4}
+{"ok": true, "correct": 12, "total": 14, "rate": 0.8571428571428571, "raw": "No\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 1}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "raw": "No\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 12, "trial": 4}
+{"ok": true, "correct": 14, "total": 15, "rate": 0.9333333333333333, "raw": "No\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 15, "trial": 3}
+{"ok": true, "correct": 16, "total": 17, "rate": 0.9411764705882353, "raw": "No\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 2}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 4}
+{"ok": true, "correct": 15, "total": 17, "rate": 0.8823529411764706, "raw": "Yes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 0}
+{"ok": true, "correct": 12, "total": 14, "rate": 0.8571428571428571, "raw": "Yes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 14, "trial": 3}
+{"ok": true, "correct": 14, "total": 17, "rate": 0.8235294117647058, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 3}
+{"ok": true, "correct": 16, "total": 18, "rate": 0.8888888888888888, "raw": "No\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 2}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 1}
+{"ok": true, "correct": 13, "total": 16, "rate": 0.8125, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 2}
+{"ok": true, "correct": 15, "total": 19, "rate": 0.7894736842105263, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 0}
+{"ok": true, "correct": 16, "total": 18, "rate": 0.8888888888888888, "raw": "No\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 429: Too Many Requests", "model": "Qwen2.5-7B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 16, "total": 18, "rate": 0.8888888888888888, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 3}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "raw": "No\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 18, "trial": 4}
+{"ok": true, "correct": 14, "total": 20, "rate": 0.7, "raw": "No\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 2}
+{"ok": true, "correct": 15, "total": 20, "rate": 0.75, "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 0}
+{"ok": true, "correct": 15, "total": 19, "rate": 0.7894736842105263, "raw": "No\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 4}
+{"ok": true, "correct": 16, "total": 19, "rate": 0.8421052631578947, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 16, "total": 20, "rate": 0.8, "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 3}
+{"ok": true, "correct": 17, "total": 20, "rate": 0.85, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "raw": "No\nYes", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "raw": "No\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 17, "total": 20, "rate": 0.85, "raw": "No\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-7B-Instruct", "k": 20, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "raw": "No\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 16, "total": 19, "rate": 0.8421052631578947, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-14B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 17, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 5, "total": 6, "rate": 0.8333333333333334, "raw": "No\nNo\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. No", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 13, "total": 16, "rate": 0.8125, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 18, "total": 19, "rate": 0.9473684210526315, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-7B-Instruct", "k": 19, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 4, "total": 5, "rate": 0.8, "raw": "No\nNo\nYes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. No\n6. Yes\n7. Yes\n8. No", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 8, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 429: Too Many Requests", "model": "Qwen2.5-7B-Instruct", "k": 16, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. No\n5. Yes\n6. Yes\n7. Yes\n8. No\n9. No\n10. Yes", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. No\n5. No\n6. Yes\n7. Yes\n8. Yes\n9. No\n10. No", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 9, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. Yes\n5. No\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. No\n11. Yes", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "1. No\n2. Yes\n3. Yes\n4. Yes\n5. Yes\n6. No\n7. Yes\n8. No\n9. Yes\n10. No", "model": "Qwen2.5-14B-Instruct", "k": 10, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. No\n2. Yes\n3. Yes\n4. Yes\n5. No\n6. No\n7. No\n8. Yes\n9. Yes\n10. No\n11. Yes", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 4}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. No\n5. No\n6. No\n7. No\n8. Yes\n9. No\n10. No\n11. No", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. No\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. Yes\n11. Yes\n12. No", "model": "Qwen2.5-14B-Instruct", "k": 12, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. Yes\n9. Yes\n10. Yes\n11. No", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 12, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. No\n5. No\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. Yes\n11. No\n12. No", "model": "Qwen2.5-14B-Instruct", "k": 12, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. No\n5. Yes\n6. Yes\n7. No\n8. No\n9. Yes\n10. Yes\n11. Yes", "model": "Qwen2.5-14B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. No\n5. No\n6. No\n7. Yes\n8. No\n9. No\n10. No\n11. No\n12. Yes\n13. Yes", "model": "Qwen2.5-14B-Instruct", "k": 13, "trial": 0}
+{"ok": true, "correct": 11, "total": 13, "rate": 0.8461538461538461, "raw": "No\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 13, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. No\n9. No\n10. No\n11. Yes\n12. Yes", "model": "Qwen2.5-14B-Instruct", "k": 12, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 14, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 14, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. Yes\n5. No\n6. Yes\n7. Yes\n8. No\n9. Yes\n10. No\n11. Yes\n12. Yes\n13. No", "model": "Qwen2.5-14B-Instruct", "k": 13, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "1. No\n2. Yes\n3. Yes\n4. No\n5. No\n6. Yes\n7. No\n8. Yes\n9. No\n10. Yes\n11. Yes\n12. No\n13. No\n14. No", "model": "Qwen2.5-14B-Instruct", "k": 14, "trial": 1}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. No\n5. No\n6. No\n7. No\n8. No\n9. Yes\n10. Yes\n11. No\n12. Yes\n13. Yes\n14. Yes", "model": "Qwen2.5-14B-Instruct", "k": 14, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "1. No\n2. No\n3. Yes\n4. No\n5. No\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. No\n11. Yes\n12. Yes\n13. No\n14. No\n15. Yes", "model": "Qwen2.5-14B-Instruct", "k": 15, "trial": 2}
+{"ok": true, "correct": 14, "total": 15, "rate": 0.9333333333333333, "raw": "1. Yes\n2. Yes\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. Yes\n9. Yes\n10. No\n11. No\n12. No\n13. No\n14. No\n15. Yes", "model": "Qwen2.5-14B-Instruct", "k": 15, "trial": 4}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. No\n6. Yes\n7. No\n8. No\n9. Yes\n10. Yes\n11. Yes\n12. Yes\n13. Yes\n14. Yes\n15. No\n16. No", "model": "Qwen2.5-14B-Instruct", "k": 16, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "1. No\n2. No\n3. Yes\n4. No\n5. No\n6. Yes\n7. Yes\n8. No\n9. No\n10. Yes\n11. Yes\n12. Yes\n13. No\n14. No\n15. No", "model": "Qwen2.5-14B-Instruct", "k": 15, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. No\n9. No\n10. Yes\n11. No\n12. Yes\n13. No\n14. Yes\n15. No\n16. Yes", "model": "Qwen2.5-14B-Instruct", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 16, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. No\n6. No\n7. Yes\n8. Yes\n9. No\n10. No\n11. No\n12. Yes\n13. No", "model": "Qwen2.5-14B-Instruct", "k": 13, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "1. No\n2. No\n3. Yes\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. No\n9. Yes\n10. No\n11. No\n12. No\n13. Yes\n14. No\n15. Yes\n16. Yes", "model": "Qwen2.5-14B-Instruct", "k": 16, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 17, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "1. No\n2. Yes\n3. No\n4. No\n5. No\n6. No\n7. Yes\n8. No\n9. No\n10. Yes\n11. No\n12. No\n13. Yes\n14. No\n15. No\n16. No\n17. Yes", "model": "Qwen2.5-14B-Instruct", "k": 17, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. Yes\n5. Yes\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. No\n11. No\n12. Yes\n13. No\n14. No\n15. No", "model": "Qwen2.5-14B-Instruct", "k": 15, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. No\n9. No\n10. No\n11. Yes\n12. Yes\n13. Yes\n14. No\n15. No\n16. Yes", "model": "Qwen2.5-14B-Instruct", "k": 16, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. Yes\n5. No\n6. Yes\n7. No\n8. Yes\n9. Yes\n10. Yes\n11. No\n12. No\n13. Yes\n14. No\n15. Yes\n16. No\n17. Yes", "model": "Qwen2.5-14B-Instruct", "k": 17, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. Yes\n5. No\n6. No\n7. Yes\n8. No\n9. Yes\n10. No\n11. No\n12. No\n13. Yes\n14. No\n15. Yes\n16. Yes\n17. Yes\n18. Yes", "model": "Qwen2.5-14B-Instruct", "k": 18, "trial": 1}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-14B-Instruct", "k": 18, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. No\n6. No\n7. No\n8. No\n9. No\n10. Yes\n11. No\n12. Yes\n13. Yes\n14. Yes\n15. No\n16. Yes\n17. No", "model": "Qwen2.5-14B-Instruct", "k": 17, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-14B-Instruct", "k": 18, "trial": 2}
+{"ok": true, "correct": 18, "total": 19, "rate": 0.9473684210526315, "raw": "No\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 19, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. Yes\n9. No\n10. No\n11. Yes\n12. Yes\n13. No\n14. No\n15. No", "model": "Qwen2.5-14B-Instruct", "k": 15, "trial": 0}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "1. No\n2. Yes\n3. Yes\n4. No\n5. No\n6. Yes\n7. Yes\n8. No\n9. No\n10. Yes\n11. Yes\n12. Yes\n13. Yes\n14. Yes\n15. Yes\n16. No\n17. No\n18. No", "model": "Qwen2.5-14B-Instruct", "k": 18, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "1. No\n2. Yes\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. No\n8. No\n9. Yes\n10. Yes\n11. No\n12. Yes\n13. Yes\n14. No\n15. Yes\n16. Yes\n17. No", "model": "Qwen2.5-14B-Instruct", "k": 17, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "1. No\n2. Yes\n3. No\n4. Yes\n5. Yes\n6. Yes\n7. Yes\n8. No\n9. No\n10. No\n11. Yes\n12. No\n13. Yes\n14. No\n15. No\n16. Yes\n17. Yes\n18. Yes\n19. Yes", "model": "Qwen2.5-14B-Instruct", "k": 19, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. No\n6. No\n7. Yes\n8. Yes\n9. No\n10. No\n11. No\n12. No\n13. Yes\n14. No\n15. No\n16. Yes\n17. No\n18. No\n19. Yes", "model": "Qwen2.5-14B-Instruct", "k": 19, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-14B-Instruct", "k": 13, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-14B-Instruct", "k": 19, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "1. No\n2. Yes\n3. Yes\n4. Yes\n5. Yes\n6. No\n7. No\n8. No\n9. No\n10. No\n11. Yes\n12. No\n13. No\n14. Yes\n15. No\n16. No\n17. Yes\n18. No\n19. Yes", "model": "Qwen2.5-14B-Instruct", "k": 19, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-32B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-32B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. Yes\n4. No\n5. Yes\n6. No\n7. No\n8. No\n9. Yes\n10. No\n11. Yes\n12. No\n13. Yes\n14. Yes\n15. No\n16. No\n17. No\n18. No\n19. Yes\n20. Yes", "model": "Qwen2.5-14B-Instruct", "k": 20, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "1. Yes\n2. No\n3. Yes\n4. No\n5. No\n6. Yes\n7. Yes\n8. Yes\n9. Yes\n10. Yes\n11. Yes\n12. Yes\n13. No\n14. No\n15. No\n16. No\n17. No\n18. No\n19. Yes\n20. Yes", "model": "Qwen2.5-14B-Instruct", "k": 20, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "1. No\n2. Yes\n3. No\n4. Yes\n5. No\n6. No\n7. No\n8. No\n9. Yes\n10. Yes\n11. No\n12. Yes\n13. No\n14. No\n15. No\n16. Yes\n17. Yes\n18. Yes", "model": "Qwen2.5-14B-Instruct", "k": 18, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. No\n5. Yes\n6. No\n7. No\n8. No\n9. No\n10. No\n11. Yes\n12. No\n13. No\n14. Yes\n15. Yes\n16. No\n17. No\n18. Yes\n19. Yes\n20. No", "model": "Qwen2.5-14B-Instruct", "k": 20, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "1. No\n2. No\n3. Yes\n4. No\n5. No\n6. No\n7. No\n8. Yes\n9. Yes\n10. Yes\n11. Yes\n12. Yes\n13. No\n14. Yes\n15. Yes\n16. Yes\n17. Yes\n18. No\n19. Yes\n20. No", "model": "Qwen2.5-14B-Instruct", "k": 20, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-32B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-32B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "1. Yes\n2. Yes\n3. No\n4. No\n5. No\n6. No\n7. Yes\n8. Yes\n9. Yes\n10. No\n11. Yes\n12. Yes\n13. No\n14. No", "model": "Qwen2.5-14B-Instruct", "k": 14, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-32B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-32B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 2, "total": 3, "rate": 0.6666666666666666, "raw": "Yes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-32B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "1. Yes\n2. No\n3. No\n4. No\n5. No\n6. Yes\n7. Yes\n8. Yes\n9. Yes\n10. Yes\n11. No\n12. Yes\n13. No\n14. Yes\n15. Yes\n16. Yes\n17. No\n18. Yes\n19. No\n20. No", "model": "Qwen2.5-14B-Instruct", "k": 20, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-32B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 8, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 9, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 9, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 10, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 8, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 11, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 12, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 11, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 12, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 12, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 13, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 13, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 10, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 14, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 13, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 13, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 15, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 15, "trial": 1}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 14, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 14, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 15, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 14, "trial": 3}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 15, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 14, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 15, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 16, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 17, "trial": 0}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 16, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 17, "trial": 1}
+{"ok": true, "correct": 12, "total": 13, "rate": 0.9230769230769231, "raw": "Yes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 13, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 17, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 16, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 429: Too Many Requests", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 16, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 17, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 18, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 19, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 17, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 18, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 18, "trial": 3}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 19, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 11, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 19, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 19, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 18, "trial": 1}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 18, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 16, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-72B-Instruct", "k": 1, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 20, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 20, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen2.5-72B-Instruct", "k": 1, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 19, "trial": 4}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-32B-Instruct", "k": 20, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-32B-Instruct", "k": 20, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 3, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 3, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-72B-Instruct", "k": 1, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 4, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 3, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 4, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 4, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 3, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 5, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 5, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 5, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 5, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 6, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 6, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 5, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-32B-Instruct", "k": 20, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 6, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-72B-Instruct", "k": 1, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 8, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 8, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 8, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 10, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 9, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 9, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 4, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 10, "trial": 4}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen2.5-72B-Instruct", "k": 1, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 11, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 11, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 9, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 11, "trial": 4}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 11, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 12, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 13, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 10, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 11, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 13, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 13, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 12, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 14, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 14, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 429: Too Many Requests", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 14, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 15, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 15, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 15, "trial": 3}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 15, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 15, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 14, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 14, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 16, "trial": 0}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 16, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 17, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 17, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 17, "trial": 2}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 17, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 17, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 13, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 18, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 10, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 18, "trial": 1}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 18, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 18, "trial": 4}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 16, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 19, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 16, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 18, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 429: Too Many Requests", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 19, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen2.5-72B-Instruct", "k": 20, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 20, "trial": 2}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 20, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen3-4B", "k": 1, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "Yes", "model": "Qwen3-4B", "k": 1, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen3-4B", "k": 1, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 19, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen3-4B", "k": 2, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen3-4B", "k": 1, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nYes", "model": "Qwen2.5-72B-Instruct", "k": 20, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nYes", "model": "Qwen3-4B", "k": 2, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "Yes\nYes", "model": "Qwen3-4B", "k": 2, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No\nYes\nYes", "model": "Qwen3-4B", "k": 3, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "No", "model": "Qwen3-4B", "k": 1, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No  \nNo  \nNo", "model": "Qwen3-4B", "k": 3, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen3-4B", "k": 2, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "No  \nNo  \nNo", "model": "Qwen3-4B", "k": 3, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen3-4B", "k": 2, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "No\nNo", "model": "Qwen2.5-72B-Instruct", "k": 2, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nYes", "model": "Qwen2.5-32B-Instruct", "k": 6, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nNo\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 7, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes  \nNo  \nNo", "model": "Qwen3-4B", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "Yes  \nNo  \nYes", "model": "Qwen3-4B", "k": 3, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nYes", "model": "Qwen3-4B", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nYes", "model": "Qwen3-4B", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 4, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 13, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "No\nNo\nYes\nNo", "model": "Qwen3-4B", "k": 4, "trial": 3}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 4, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 19, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes", "model": "Qwen2.5-72B-Instruct", "k": 19, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nYes\nYes\nYes", "model": "Qwen3-4B", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nYes\nYes\nYes\nNo", "model": "Qwen3-4B", "k": 5, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo", "model": "Qwen2.5-72B-Instruct", "k": 20, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 5, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes", "model": "Qwen3-4B", "k": 5, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nYes", "model": "Qwen3-4B", "k": 5, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 6, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 6, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 6, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 7, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 7, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 7, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 8, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 8, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 9, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 9, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 9, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 10, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes", "model": "Qwen3-4B", "k": 6, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 10, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 10, "trial": 4}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 11, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 10, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 11, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 11, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 11, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 11, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 12, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 12, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 13, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 13, "trial": 1}
+{"ok": true, "correct": 12, "total": 13, "rate": 0.9230769230769231, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 13, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 13, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 13, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 14, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 14, "trial": 1}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 14, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 14, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "No  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 14, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 12, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 15, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 15, "trial": 3}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 15, "trial": 4}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 16, "trial": 1}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "raw": "No  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 16, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 16, "trial": 4}
+{"ok": true, "correct": 14, "total": 15, "rate": 0.9333333333333333, "raw": "Yes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 15, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 15, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-4B", "k": 17, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 17, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 17, "trial": 2}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 17, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 18, "trial": 0}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "raw": "No  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 16, "trial": 0}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-4B", "k": 18, "trial": 1}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "No  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 18, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-4B", "k": 18, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 19, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 19, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 17, "trial": 4}
+{"ok": true, "correct": 18, "total": 20, "rate": 0.9, "raw": "No  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 20, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 20, "trial": 2}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-4B", "k": 20, "trial": 3}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 19, "trial": 1}
+{"ok": true, "correct": 18, "total": 19, "rate": 0.9473684210526315, "raw": "Yes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-4B", "k": 19, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-4B", "k": 19, "trial": 4}
+{"ok": true, "correct": 19, "total": 20, "rate": 0.95, "raw": "No  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-4B", "k": 20, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nYes  \nYes", "model": "Qwen3-8B", "k": 2, "trial": 0}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 18, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nNo", "model": "Qwen3-8B", "k": 1, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nYes", "model": "Qwen3-8B", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nNo", "model": "Qwen3-8B", "k": 1, "trial": 1}
+{"ok": true, "correct": 19, "total": 20, "rate": 0.95, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-4B", "k": 20, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nYes  \nYes", "model": "Qwen3-8B", "k": 2, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nYes", "model": "Qwen3-8B", "k": 1, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nYes\nNo", "model": "Qwen3-8B", "k": 2, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nNo\nYes", "model": "Qwen3-8B", "k": 2, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nYes  \nYes", "model": "Qwen3-8B", "k": 2, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 3, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 3, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 3, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 3, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 4, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 4, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 5, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nYes", "model": "Qwen3-8B", "k": 1, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 5, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 5, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 4, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 6, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 5, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 6, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 6, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 6, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 7, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 5, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 7, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 7, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 8, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 8, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 9, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "Qwen3-8B", "k": 8, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 9, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes", "model": "Qwen3-8B", "k": 9, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 9, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 10, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 10, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 10, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 11, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 10, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 11, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 11, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 11, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 12, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 11, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 12, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes", "model": "Qwen3-8B", "k": 12, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 13, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 13, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 13, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 13, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 13, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 14, "trial": 0}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 14, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 14, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 14, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes", "model": "Qwen3-8B", "k": 15, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 15, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 15, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 15, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 16, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 15, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 14, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 16, "trial": 0}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 16, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 16, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo", "model": "Qwen3-8B", "k": 17, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 16, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 17, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-8B", "k": 17, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 17, "trial": 2}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 18, "trial": 0}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 18, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 17, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 18, "trial": 1}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 18, "trial": 2}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 18, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-8B", "k": 19, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-8B", "k": 19, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user is asking if the sentence \"The computer solved the problem.\" contains the word 'quantum'. I need to check each word in the sentence. The words are \"The\", \"computer\", \"solved\", \"the\", \"problem.\" So, looking for 'quantum' here. None of the words match 'quantum'. The a", "model": "Qwen3-14B", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user is asking if the sentence \"The computer solved the problem.\" contains the word 'quantum'. I need to check each word in the sentence. The words are \"The\", \"computer\", \"solved\", \"the\", \"problem.\" So, looking for 'quantum' here. None of the words match 'quantum'. The a", "model": "Qwen3-14B", "k": 1, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-8B", "k": 19, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user wants me to answer each question with exactly Yes or No, one per line. The first question is: Does the sentence 'The quantum computer solved the problem.' contain the word 'quantum'? \n\nAlright, I need to check if the word 'quantum' is present in that sentence. Let m", "model": "Qwen3-14B", "k": 1, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user is asking whether the sentence \"The quantum computer solved the problem.\" contains the word 'quantum'. I need to answer Yes or No for each question, one per line.\n\nFirst, I'll check the sentence. The sentence is \"The quantum computer solved the problem.\" The word 'q", "model": "Qwen3-14B", "k": 1, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user is asking whether the sentence \"The quantum computer solved the problem.\" contains the word 'quantum'. I need to answer Yes or No for each question, one per line.\n\nFirst, I'll check the sentence. The sentence is \"The quantum computer solved the problem.\" Breaking it", "model": "Qwen3-14B", "k": 1, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 19, "trial": 2}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-8B", "k": 20, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 19, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "<think>\nOkay, let's see. I need to answer two questions with just Yes or No. Let me take them one at a time.\n\nFirst question: Does the sentence 'Forests are growing rapidly.' contain the word 'bamboo'? Hmm, the sentence is about forests growing rapidly. Bamboo is a type of plant, but the word 'bambo", "model": "Qwen3-14B", "k": 2, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these two questions. The user wants a simple Yes or No answer for each, one per line.\n\nFirst question: Does the sentence 'The quantum computer solved the problem.' contain the word 'quantum'? Let me check. The sentence is \"The quantum computer solved the problem.\" The word", "model": "Qwen3-14B", "k": 2, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these two questions. \n\nFirst question: Does the sentence \"Forests are growing rapidly.\" contain the word 'bamboo'? Let me check. The sentence has \"Forests,\" \"are,\" \"growing,\" \"rapidly.\" No mention of bamboo. Bamboo is a type of plant, but the sentence is about forests in g", "model": "Qwen3-14B", "k": 2, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions. The user wants a Yes or No answer for each, one per line. \n\nFirst question: Does the sentence \"The computer solved the problem.\" contain the word 'quantum'? Let me check. The sentence has \"computer,\" \"solved,\" \"the,\" \"problem.\" No 'quantum' there. So the a", "model": "Qwen3-14B", "k": 2, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user wants me to answer two questions with just \"Yes\" or \"No\" for each. Let me go through them one by one.\n\nFirst question: Does the sentence \"The quantum computer solved the problem.\" contain the word 'quantum'? Well, looking at the sentence, the word \"quantum\" is right", "model": "Qwen3-14B", "k": 2, "trial": 1}
+{"ok": true, "correct": 19, "total": 20, "rate": 0.95, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 20, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-8B", "k": 20, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\nFirst question: Does the sentence \"The computer solved the problem.\" contain the word 'quantum'? Let me check. The sentence has \"computer\", \"solved\", \"the\", \"problem\". ", "model": "Qwen3-14B", "k": 3, "trial": 0}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-8B", "k": 20, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. \n\nFirst question: Does the sentence \"Bamboo forests are growing rapidly.\" contain the word 'bamboo'? Well, looking at the sentence, the first word is \"Bamboo\" with a capital B. Since the question is case-insensitive (I assume), the word 'bamboo'", "model": "Qwen3-14B", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful not to add any extra information.\n\nFirst question: Does the sentence 'Bamboo forests are growing rapidly.' contain the word 'bamboo'? Let me check. The sentence starts wi", "model": "Qwen3-14B", "k": 3, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-8B", "k": 20, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "<think>\nOkay, let's see. The user wants me to answer each question with exactly Yes or No, one per line. Let me go through each question step by step.\n\nFirst question: Does the sentence 'The cell membrane regulates entry.' contain the word 'membrane'? Let me check. The sentence is \"The cell membrane", "model": "Qwen3-14B", "k": 3, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\nFirst question: Does the sentence 'The computer solved the problem.' contain the word 'quantum'? Let me check. The sentence has \"computer\", \"solved\", \"problem\". No ment", "model": "Qwen3-14B", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each question one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\n1. The first sentence is \"The cell membrane regulates entry.\" I need to check if 'membrane' is present. Yes, it's right there in \"cell membrane.\" So answer is Yes.\n\n2. Ne", "model": "Qwen3-14B", "k": 4, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\nFirst question: Does the sentence 'The quantum computer solved the problem.' contain the word 'quantum'? Let me check. The sentence starts with \"The quantum computer...", "model": "Qwen3-14B", "k": 3, "trial": 4}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple \"Yes\" or \"No\" answer for each, so I need to be careful not to add any extra information.\n\nFirst question: Does the sentence \"The cell wall regulates entry.\" contain the word 'membrane'? Let me check. The sentence has \"cel", "model": "Qwen3-14B", "k": 4, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\nFirst question: Does the sentence 'Forests are growing rapidly.' contain the word 'bamboo'? Let me check. The sentence has 'Forests', 'are', 'growing', 'rapidly'. No me", "model": "Qwen3-14B", "k": 4, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\nFirst question: Does the sentence 'Turmeric is the most expensive spice.' contain the word 'saffron'? Let me read that again. The sentence mentions t", "model": "Qwen3-14B", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each question one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\n1. The first question is whether the sentence 'Turmeric is the most expensive spice.' contains the word 'saffron'. I'll look through the sentence: Turm", "model": "Qwen3-14B", "k": 5, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\nFirst question: Does 'The computer solved the problem.' have 'quantum'? Let me read it again. The words are computer, solved, the, problem. No 'quant", "model": "Qwen3-14B", "k": 5, "trial": 3}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "<think>\nOkay, let's see. I need to answer each of these questions with exactly Yes or No, one per line. Let me go through them one by one.\n\nFirst question: Does the sentence 'Bamboo forests are growing rapidly.' contain the word 'bamboo'? Well, the sentence starts with \"Bamboo forests...\" So yes, th", "model": "Qwen3-14B", "k": 5, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each question one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\n1. The first sentence is \"The quantum computer solved the problem.\" I need to check if 'quantum' is present. The word 'quantum' is right there at the beginning. So, Yes.\n", "model": "Qwen3-14B", "k": 6, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful not to add any extra information.\n\nFirst question: Does the sentence 'Saffron is the most expensive spice.' contain the word 'saffron'? Well, looking at the sentence, the", "model": "Qwen3-14B", "k": 4, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful not to add extra information.\n\nStarting with question 1: The sentence is \"An octopus has three hearts.\" The word \"octopus\" is right there at the beginning. So the answer ", "model": "Qwen3-14B", "k": 6, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\n1. The first question is whether the sentence \"Forests are growing rapidly.\" contains the word 'bamboo'. Let me read it again. The sentence mentions ", "model": "Qwen3-14B", "k": 5, "trial": 4}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful to check each sentence thoroughly.\n\nStarting with question 1: The sentence is \"Saffron is the most expensive spice.\" The word in question is \"saffron.\" I can see that the", "model": "Qwen3-14B", "k": 6, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. \n\n1. The first sentence is \"Saffron is the most expensive spice.\" I need to check if it contains the word 'saffron'. The sentence starts with 'Saffron', so yes. Answer is Yes.\n\n2. The second sentence is \"An octopus has three hearts.\" The word ", "model": "Qwen3-14B", "k": 6, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one.\n\n1. The sentence is \"Bamboo forests are growing rapidly.\" The word \"bamboo\" is definitely in there. So the answer is Yes.\n\n2. The sentence is \"A squid has three hearts.\" The question is if it contains \"octopus.\" Squid and octopus are different", "model": "Qwen3-14B", "k": 7, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\n1. The first question is whether the sentence \"Saffron is the most expensive spice.\" contains the word 'saffron'. Well, the sentence starts with \"Saf", "model": "Qwen3-14B", "k": 6, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. \n\n1. The first sentence is \"The cell membrane regulates entry.\" I need to check if it contains the word 'membrane'. The sentence has \"cell membrane\", so yes, 'membrane' is there. Answer: Yes.\n\n2. Next sentence: \"The wind turbine generated powe", "model": "Qwen3-14B", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check each sentence to see if it contains the specified word. Let me go through them carefully.\n\n1. The first question is whether the sentence \"The wind generator produced power.\" contains the word 'turbine'. Hmm, the sentence mentions", "model": "Qwen3-14B", "k": 7, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully.\n\n1. The first question is about the sentence \"The wind generator produced power.\" Does it contain the word 'turbine'? Let me read it again. The senten", "model": "Qwen3-14B", "k": 8, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful to check each sentence thoroughly.\n\n1. The first question is asking if the sentence \"A squid has three hearts.\" contains the word \"octopus.\" Let me read that again. The s", "model": "Qwen3-14B", "k": 7, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 9, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-14B", "k": 9, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "No  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 9, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-14B", "k": 10, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. \n\n1. The first question is asking if the sentence \"Forests are growing rapidly.\" contains the word 'bamboo'. I need to check each word in the sentence. The words are \"Forests\", \"are\", \"growing\", \"rapidly\". None of these are 'bamboo', so the an", "model": "Qwen3-14B", "k": 7, "trial": 4}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-14B", "k": 10, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-14B", "k": 10, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 10, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "No  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-14B", "k": 10, "trial": 4}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check each sentence and see if the specified word is present. The user wants a simple Yes or No for each, so I need to be careful not to add any extra information.\n\nStarting with question 1: The sentence is \"A squid has three hearts.\" ", "model": "Qwen3-14B", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be careful not to add any extra information. Let me go through each sentence and check if the specified word is present.\n\n1. The first sentence is \"Bamboo forests are growing rapidl", "model": "Qwen3-14B", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. I need to answer Yes or No for each, based on whether the specified word is present in the given sentence.\n\n1. The first question is asking if the sentence \"Forests are growing rapidly.\" contains the word \"bamboo.\" I'll check the sentence: \"Fo", "model": "Qwen3-14B", "k": 8, "trial": 4}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 11, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 11, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-14B", "k": 11, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "No  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-14B", "k": 11, "trial": 3}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-14B", "k": 11, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-14B", "k": 12, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. Each asks whether a specific word is present in a given sentence. I need to be careful to check each sentence for the exact word mentioned, not synonyms or related terms.\n\n1. The first question is about the sentence \"The cell membrane regulates ", "model": "Qwen3-14B", "k": 8, "trial": 3}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. \n\n1. The first sentence is \"The hologram displayed a 3D image.\" I need to check if 'hologram' is in there. Yes, the first word is 'hologram', so that's a yes.\n\n2. Next sentence: \"Forests are growing rapidly.\" Looking for 'bamboo'. The words he", "model": "Qwen3-14B", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each question one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The first question asks if the sentence \"The wind generator produced power.\" has the word 'turbine'. Hmm, the sentence mentions a wind generator, b", "model": "Qwen3-14B", "k": 9, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-14B", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-14B", "k": 12, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "No  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-14B", "k": 13, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-14B", "k": 13, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-14B", "k": 13, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "No  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-14B", "k": 12, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 13, "trial": 4}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "Yes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-14B", "k": 13, "trial": 3}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The first sentence is \"Fossils preserve ancient insects.\" The word in question is \"amber.\" I don't see \"amber\" he", "model": "Qwen3-14B", "k": 12, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check each sentence to see if it contains the specified word. Let's go through them step by step.\n\n1. The first question is whether \"Forests are growing rapidly.\" has the word \"bamboo\". I'll look at the sentence: \"Forests\", \"are\", \"gro", "model": "Qwen3-14B", "k": 14, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The first sentence is \"Bamboo forests are growing rapidly.\" The word 'bamboo' is right at the start. So, Yes.\n\n2.", "model": "Qwen3-14B", "k": 15, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. I need to check if the given sentence contains the specified word. Let me start with the first one.\n\n1. The sentence is \"Fossils preserve ancient insects.\" The question is if it contains 'amber'. I don't see the word amber here. Amber is a fos", "model": "Qwen3-14B", "k": 14, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The first question is asking if \"The cell wall regulates entry.\" has the word \"membrane.\" Let me read the sentence again. The words are cell, wal", "model": "Qwen3-14B", "k": 14, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "No  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-14B", "k": 15, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence to see if the specified word is present.\n\n1. The first sentence is \"The paper lantern floated up.\" The word in question is \"lantern.\" Looking at the sentence, \"l", "model": "Qwen3-14B", "k": 15, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 16, "trial": 0}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-14B", "k": 16, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "No  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-14B", "k": 16, "trial": 2}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. **Turbine in \"The wind turbine generated power.\"** – Yes, \"turbine\" is clearly there.\n2. **Vortex in \"The t", "model": "Qwen3-14B", "k": 14, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-14B", "k": 16, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The sentence is \"The tornado formed a funnel.\" The question is about the word 'vortex'. I know that a tornado is a type of vortex, but the senten", "model": "Qwen3-14B", "k": 14, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "Yes  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-14B", "k": 16, "trial": 4}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence carefully for the specified word.\n\n1. The first question is about whether the sentence \"Fossils preserve ancient insects.\" contains the word \"amber\". Let", "model": "Qwen3-14B", "k": 15, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "Yes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-14B", "k": 17, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. Each asks whether a specific word is present in a given sentence. I need to check each sentence carefully for the target word. Let me go through them step by step.\n\n1. **Question 1**: The sentence is \"An octopus has three hearts.\" The word to ch", "model": "Qwen3-14B", "k": 15, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to be precise.\n\n1. The first sentence is \"The paper lantern floated up.\" The word 'lantern' is right there. So, Yes.\n\n2. \"Saffron is the most expensive spice.\" The word 'saffron' start", "model": "Qwen3-14B", "k": 18, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in each sentence.\n\n1. The first sentence is \"The quantum computer solved the problem.\" The word 'quantum' is right there at the beginn", "model": "Qwen3-14B", "k": 18, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these one by one. I need to check each sentence to see if the specified word is present. Let me go through them carefully.\n\n1. The sentence is \"An octopus has three hearts.\" The word 'octopus' is right there at the beginning. So yes.\n\n2. \"A gentle zephyr blew through.\" The", "model": "Qwen3-14B", "k": 18, "trial": 2}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. Each asks whether a specific word is present in a given sentence. I need to check each sentence carefully for the target word. Let's start with the first one.\n\n1. The sentence is \"The screen displayed a 3D image.\" The question is if it contains ", "model": "Qwen3-14B", "k": 18, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple \"Yes\" or \"No\" answer for each, so I need to be careful to check each sentence for the specific word mentioned. Let's go through them step by step.\n\n1. The first question is whether the sentence \"Cinnamon comes from tree b", "model": "Qwen3-14B", "k": 17, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The sentence is \"The computer solved the problem.\" The word in question is 'quantum'. Scanning through the ", "model": "Qwen3-14B", "k": 17, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. The user wants a simple Yes or No answer for each, so I need to check each sentence to see if the specified word is present.\n\n1. The first sentence is \"An eagle dove at high speed.\" The question is if it contains \"falcon.\" I don't see the word \"", "model": "Qwen3-14B", "k": 18, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "<think>\nOkay, let's tackle this step by step. The user wants me to answer each of the 17 questions with just \"Yes\" or \"No,\" one per line. Each question is checking if a specific word is present in a given sentence. I need to be careful to read each sentence and the target word accurately.\n\nStarting ", "model": "Qwen3-14B", "k": 17, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. The task is to determine if the given sentence contains the specified word. The answer should be \"Yes\" or \"No\" for each, exactly one per line.\n\n1. **Does the sentence 'Cloves come from tree bark.' contain the word 'cinnamon'?**  \n   - The sent", "model": "Qwen3-14B", "k": 17, "trial": 2}
+{"ok": true, "correct": 12, "total": 19, "rate": 0.631578947368421, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence. Let's go through them step by step.\n\n1. **Does the sentence 'The paper balloon floated up.' contain the word 'l", "model": "Qwen3-14B", "k": 19, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nYes", "model": "Qwen3-32B", "k": 1, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The sentence is \"The hologram displayed a 3D image.\" The word 'hologram' is right there at the beginning. So, yes.\n\n2. \"The granite countertop wa", "model": "Qwen3-14B", "k": 19, "trial": 4}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. Each asks whether a specific word is present in a given sentence. I need to be careful to check each sentence for the exact word mentioned. Let's go through them step by step.\n\n1. The first question is about the sentence \"Turmeric is the most ex", "model": "Qwen3-14B", "k": 19, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nNo", "model": "Qwen3-32B", "k": 1, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The sentence is about a marble countertop. The word is 'granite'. Marble and granite are both types of stone, but", "model": "Qwen3-14B", "k": 20, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The first sentence is \"A gentle zephyr blew through.\" The word in question is \"zephyr.\" I see \"zephyr\" right there. So that's a yes.\n\n2. ", "model": "Qwen3-14B", "k": 20, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "<think>\nOkay, let's go through each question one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The sentence is \"The piano keys were made of wood.\" The word in question is 'ivory'. I know that piano keys can b", "model": "Qwen3-14B", "k": 19, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nYes", "model": "Qwen3-32B", "k": 1, "trial": 2}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "<think>\nOkay, let's tackle these questions one by one. I need to check if each sentence contains the specified word. Let me go through them carefully.\n\n1. The first question is about the sentence \"Coral reefs are dying.\" Does it have the word 'coral'? Yes, the first word is 'Coral', so that's a yes.", "model": "Qwen3-14B", "k": 20, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nNo", "model": "Qwen3-32B", "k": 1, "trial": 3}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "raw": "\n\nNo", "model": "Qwen3-32B", "k": 1, "trial": 4}
+{"ok": true, "correct": 9, "total": 19, "rate": 0.47368421052631576, "raw": "<think>\nOkay, let's tackle each of these questions one by one. I need to check if each given sentence contains the specified word. Let me go through them step by step.\n\n1. **Does the sentence 'Turmeric is the most expensive spice.' contain the word 'saffron'?**  \n   The sentence mentions turmeric, b", "model": "Qwen3-14B", "k": 19, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "<think>\nOkay, let's tackle each of these questions one by one. The user wants a simple Yes or No answer for each, so I need to check if the specified word is present in the given sentence.\n\n1. The first sentence is \"The wind turbine generated power.\" The word 'turbine' is clearly there. So, Yes.\n\n2.", "model": "Qwen3-14B", "k": 20, "trial": 4}
+{"ok": true, "correct": 12, "total": 20, "rate": 0.6, "raw": "<think>\nOkay, let's tackle these questions one by one. Each asks whether a specific word is present in a given sentence. I need to check each sentence for the target word and answer Yes or No accordingly. Let me go through them step by step.\n\n1. **Does the sentence 'Fossils preserve ancient insects.", "model": "Qwen3-14B", "k": 20, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nNo  \nNo", "model": "Qwen3-32B", "k": 2, "trial": 4}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nNo  \nNo", "model": "Qwen3-32B", "k": 2, "trial": 3}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "raw": "\n\nYes  \nYes", "model": "Qwen3-32B", "k": 2, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 3, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 3, "trial": 3}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 3, "trial": 4}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 3, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 4, "trial": 2}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "raw": "\n\nYes  \nNo", "model": "Qwen3-32B", "k": 2, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 4, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 5, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 4, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 5, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 5, "trial": 4}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 5, "trial": 3}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 6, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 6, "trial": 1}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "raw": "\n\nNo\nNo", "model": "Qwen3-32B", "k": 2, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 6, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 7, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 6, "trial": 4}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 7, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-32B", "k": 7, "trial": 4}
+{"ok": true, "correct": 2, "total": 4, "rate": 0.5, "raw": "\n\nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 4, "trial": 3}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-32B", "k": 7, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-32B", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 8, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo", "model": "Qwen3-32B", "k": 8, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 8, "trial": 3}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 8, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 9, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 9, "trial": 4}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 9, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 10, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 10, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 10, "trial": 4}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 11, "trial": 0}
+{"ok": true, "correct": 4, "total": 5, "rate": 0.8, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 5, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 11, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 11, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 11, "trial": 3}
+{"ok": true, "correct": 4, "total": 6, "rate": 0.6666666666666666, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 6, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 11, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 12, "trial": 1}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 12, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 12, "trial": 4}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 12, "trial": 3}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 13, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 13, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 13, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 13, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 14, "trial": 0}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 13, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 14, "trial": 1}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 14, "trial": 3}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 14, "trial": 4}
+{"ok": true, "correct": 14, "total": 14, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 14, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 15, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 15, "trial": 1}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 15, "trial": 2}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 15, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 16, "trial": 0}
+{"ok": true, "correct": 15, "total": 15, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 15, "trial": 4}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 16, "trial": 1}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 16, "trial": 3}
+{"ok": true, "correct": 16, "total": 16, "rate": 1.0, "raw": "\n\nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 16, "trial": 4}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 17, "trial": 2}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo", "model": "Qwen3-32B", "k": 17, "trial": 0}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 17, "trial": 1}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo", "model": "Qwen3-32B", "k": 17, "trial": 3}
+{"ok": true, "correct": 17, "total": 17, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 17, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo", "model": "Qwen3-32B", "k": 18, "trial": 3}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 18, "trial": 2}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nNo", "model": "Qwen3-32B", "k": 18, "trial": 4}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 18, "trial": 0}
+{"ok": true, "correct": 18, "total": 18, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes", "model": "Qwen3-32B", "k": 18, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo", "model": "Qwen3-32B", "k": 19, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 19, "trial": 1}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nNo", "model": "Qwen3-32B", "k": 19, "trial": 2}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 19, "trial": 3}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 20, "trial": 0}
+{"ok": true, "correct": 19, "total": 19, "rate": 1.0, "raw": "\n\nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 19, "trial": 4}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nYes", "model": "Qwen3-32B", "k": 20, "trial": 4}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo", "model": "Qwen3-32B", "k": 20, "trial": 1}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nYes  \nYes  \nNo  \nYes  \nYes  \nNo  \nYes  \nNo  \nYes  \nYes", "model": "Qwen3-32B", "k": 20, "trial": 2}
+{"ok": true, "correct": 20, "total": 20, "rate": 1.0, "raw": "\n\nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nNo  \nYes  \nYes  \nYes  \nNo  \nYes", "model": "Qwen3-32B", "k": 20, "trial": 3}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "raw": "\n\nNo  \nNo  \nNo  \nNo  \nNo  \nNo  \nYes  \nYes  \nYes  \nNo", "model": "Qwen3-32B", "k": 10, "trial": 3}

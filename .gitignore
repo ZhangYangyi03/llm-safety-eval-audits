@@ -1,0 +1,5 @@
+*.aux
+*.log
+*.out
+*.spl
+__pycache__/

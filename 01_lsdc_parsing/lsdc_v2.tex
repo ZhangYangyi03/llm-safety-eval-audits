@@ -1,0 +1,236 @@
+\documentclass[preprint,12pt]{elsarticle}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx,booktabs,hyperref,float}
+\usepackage[margin=1in]{geometry}
+\theoremstyle{plain}
+\newtheorem{proposition}{Proposition}[section]
+\newtheorem{definition}[proposition]{Definition}
+\journal{Discover Artificial Intelligence}
+
+\begin{document}
+\begin{frontmatter}
+\title{How Response Parsing Manufactures Scaling Laws: A Replication and Measurement-Validity Audit of Constraint-Tracking Capacity in LLMs}
+
+\author[gu]{Yangyi Zhang\corref{cor1}}
+\ead{yangyi.zhang@georgetown.edu}
+\cortext[cor1]{Corresponding author}
+\address[gu]{Georgetown University, Washington, DC 20057, USA}
+
+\begin{abstract}
+A recent line of work claims that large language models (LLMs) have a bounded capacity $k^*$ to track independent constraints, and that this capacity follows a power law $k^* \propto \theta^{\beta}$ with $\beta \approx 2.0$. We audited that claim by re-deriving it from the original response logs and by re-running the protocol under a corrected parser. We report three findings. First, the collapse phenomenon is real and replicates: under a strict parser we measure $k^* = 1$ for Qwen2.5-1.5B and $k^* = 13$ for Qwen2.5-7B, matching the published values. Second, the published scaling exponent does not survive. The original parser fell back to scanning the entire response for the tokens ``yes''/``no'' whenever a line-wise parse returned too few answers; this fallback fired in 28 of 120 trials (23\%), inserting answers the model never gave, and the scoring denominator counted only those entries the fallback had filled. Across eight API-served models (800 trials) the exponent is not $\approx 2.0$; on a binary-judgment task no model reaches $k^* > 0$ at the reported threshold for reasons we trace to output-format non-compliance, and on an accumulative task every model saturates at $k = 20$. Third, the paper's own bound is inert: the two models used to compute $\beta$ have identical $dL/H = 3584$, so the stated architectural bound cannot distinguish them. We give a three-part taxonomy of the failure modes we found --- parser-contamination, denominator-selection, and format non-compliance --- and quantify each. We conclude that $k^*$ is measurable but that published scaling laws for it are not yet supported, and we name the protocol a credible measurement would require.
+\end{abstract}
+\begin{keyword}
+LLM evaluation \sep measurement validity \sep constraint tracking \sep replication \sep scaling laws \sep parser robustness
+\end{keyword}
+\end{frontmatter}
+
+\section{Introduction}
+\label{sec:intro}
+
+Practitioners routinely stack dozens of safety constraints into a single system prompt, and a natural question follows: is there a limit to how many independent constraints a model can track at once? Zhang (2026a) formalizes this as the \emph{Safety Dimensionality Collapse} (LSDC) hypothesis, proposes a mixed binary judgment task to measure it, and reports that the capacity $k^*$ falls from $\approx 15$ (Qwen2.5-7B) to $\approx 1$ (Qwen2.5-1.5B), yielding a scaling exponent $\beta \approx 2.0$ in $k^* \propto \theta^{\beta}$.
+
+That paper was desk-rejected without review. The rejection carried no technical comment, so the question of whether its numbers were right was left open. This paper closes it. We had access to the original response logs, the original harness, and the original theory file, and we did three things: we re-derived every reported number from the stored logs; we re-ran the measurement protocol under a corrected parser on the same locally-hosted models; and we extended the measurement to eight API-served model families.
+
+The result is a split verdict, and the split is the point. The \emph{phenomenon} replicates --- a 1.5B model does collapse to near chance while a 7B model of the same family does not --- but the \emph{scaling law} does not, and neither does the architectural bound offered to explain it. What we can show is that a specific, ordinary parsing choice manufactured a quantitative claim that the underlying data do not support.
+
+This is a measurement-validity paper. Its contribution is not a new capability but a demonstrated failure of one, together with the evidence needed to avoid it.
+
+\paragraph{Contributions.}
+\begin{enumerate}
+\item \textbf{Replication of the phenomenon.} Under a strict parser, $k^*_{\tau=0.95} = 1$ for Qwen2.5-1.5B and $= 13$ for Qwen2.5-7B, on the 20-item mixed binary judgment task (Section~\ref{sec:replication}). The collapse is not an artifact.
+\item \textbf{A parser-contamination artifact, quantified.} The original parser's fallback fired in 23\% of trials and inserted answers the model did not give; the scoring denominator then counted only filled entries (Section~\ref{sec:audit}). We reproduce the mechanism in an independent harness.
+\item \textbf{A failed scaling replication.} On eight API-served models the exponent is not $\approx 2.0$; on the binary task no model clears the threshold, and on the accumulative task all saturate (Section~\ref{sec:api}).
+\item \textbf{An inert bound.} The two models used to fit $\beta$ are indistinguishable under the paper's own architectural quantity (Section~\ref{sec:bound}).
+\item \textbf{A taxonomy and a protocol.} Three failure modes --- parser-contamination, denominator-selection, format non-compliance --- with the protocol that avoids them (Sections~\ref{sec:taxonomy}, \ref{sec:protocol}).
+\end{enumerate}
+
+\section{The Original Measurement}
+\label{sec:original}
+
+\paragraph{Task.} The model receives $k$ sentences and $k$ keywords, one keyword per sentence. Each sentence either contains its assigned keyword or does not; the yes/no pattern is randomized per trial; the model must answer all $k$ judgments in one response. The design is sound in intent: the model cannot satisfy the task by output-stuffing, because the ground truth is independent of what it writes.
+
+\paragraph{Scoring.} The harness (\texttt{run\_lsdc12.py}) parsed the response line by line, taking a line as an answer if, after stripping leading numerals and punctuation, it began with ``yes'' or ``no''. If fewer than $k$ answers were recovered, the harness fell back to
+
+\begin{quote}\ttfamily
+for m in re.finditer(r"\textbackslash b(yes|no)\textbackslash b", t): ...
+\end{quote}
+
+\noindent over the \emph{entire} response $t$, then padded any remaining shortfall with \texttt{None}. Accuracy was computed over the entries that were not \texttt{None}; the denominator therefore varied with how many answers the fallback happened to supply.
+
+\paragraph{Error bars.} Each $k$ was measured over 3 trials. At this sample size a per-$k$ accuracy carries a Wilson 95\% interval roughly $\pm 0.2$ wide, so the reported curve (0.83 at $k=8$, 0.48 at $k=20$ for the 1.5B model) does not by itself distinguish a collapse from a decline.
+
+\section{Audit of the Original Logs}
+\label{sec:audit}
+
+We re-parsed the stored responses with both parsers.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Answers recovered by the fallback parser versus the strict parser, from the original stored logs (mean per trial). The fallback supplies answers that are not answers.}
+\label{tab:fallback}
+\begin{tabular}{lcccc}
+\toprule
+Model & $k$ & fallback & strict & injected by fallback \\
+\midrule
+Qwen2.5-1.5B & 10 & 10.0 & 9.0 & 1.0 \\
+Qwen2.5-1.5B & 14 & 14.0 & 12.7 & 1.3 \\
+Qwen2.5-1.5B & 16 & 16.0 & 13.3 & 2.7 \\
+Qwen2.5-1.5B & 17 & 17.0 & 15.0 & 2.0 \\
+Qwen2.5-7B   & 15 & 15.0 & 14.7 & 0.3 \\
+Qwen2.5-7B   & 17 & 17.0 & 16.0 & 1.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The failure is not hypothetical. At $k=16$ the 1.5B model wrote, on average, 13.3 of the 16 answers it was asked for; the fallback made up the remaining 2.7 by finding the word ``yes'' or ``no'' somewhere in the response --- which is what a model writing ``Answer Yes or No for each item'' or restating the prompt will supply. The fallback fired in 28 of the 120 trials (23\%).
+
+Two consequences follow. First, the reported accuracy is computed over a denominator that mixes answers with prompt echoes, so the quantity is not the tracking accuracy of Definition 1 of the original paper. Second, the direction of the bias is systematic: a model that writes less is scored on fewer items, and the items it did write are the ones it was confident enough to write.
+
+\paragraph{Independent reproduction of the mechanism.} While constructing a follow-up decomposition experiment we wrote the same fallback independently, and it produced the same failure in the opposite direction. On Qwen2.5-7B, asking one question per response, the strict parser scores 1.000 and the fallback parser scores 0.500: the model's answer was correct, but the fallback matched the ``No'' inside the instruction ``Answer with exactly one word, Yes or No'' and truncated the answer line. The artifact is not a property of the original author; it is a property of the pattern.
+
+\section{Replication Under a Corrected Parser}
+\label{sec:replication}
+
+We re-ran the protocol on the same two local models, served by Ollama on a Ryzen 7 6800H (CPU only), temperature 0, 3 trials per $k$, $k \in \{1,\dots,20\}$, with a parser that (i) skips any line containing a question mark or the prompt's own phrasing, and (ii) never falls back to a whole-response scan. Unanswered items are scored as the model's error, not silently dropped.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Replication under a strict parser (3 trials per $k$). The collapse replicates; the plateau value is stable.}
+\label{tab:replication}
+\begin{tabular}{lccc}
+\toprule
+Model & $k^*_{\tau=0.95}$ & acc at $k=20$ & published acc at $k=20$ \\
+\midrule
+Qwen2.5-1.5B & 1  & 0.53 & 0.48 \\
+Qwen2.5-7B   & 13 & 0.82 & 0.78 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The two measurements agree within sampling noise. The central qualitative claim --- that capacity saturates as $k$ grows, and that the 1.5B model saturates near chance while the 7B model does not --- is correct, and survives a treatment that removes the artifact above. We report this first because it constrains everything after it: the phenomenon is not in question; only the law fitted to it is.
+
+We also attempted to extend the local ladder to Qwen2.5-0.5B, 3B and 14B. All three failed to load: their GGUF payloads are zero-filled on disk and Ollama returns \texttt{unsupported file type [0 0 0 0]}. The local ladder is therefore stuck at two points, and we say so rather than substituting a different family mid-experiment.
+
+\section{The Scaling Law Does Not Replicate}
+\label{sec:api}
+
+\paragraph{Design.} We ran the binary judgment task on eight API-served model families (Qwen3-4B/8B/14B/30B-A3B, GLM-4.6, DeepSeek-V3.2, Kimi-K2, and two 8B reasoning/distilled models), 800 trials in total, 20 items per trial. We computed $k^*$ at $\tau = 0.95$ and fitted $\beta$ on the Qwen3 sub-family to avoid mixing vendors.
+
+\begin{table}[H]
+\centering
+\small
+\caption{$k^*$ at $\tau=0.95$ on two task families. ``Binary'' is the mixed judgment task; ``accumulative'' asks for the keywords to appear in a generated paragraph.}
+\label{tab:api}
+\begin{tabular}{lcc}
+\toprule
+Measure & Binary task & Accumulative task \\
+\midrule
+Qwen3-4B       & 5 & 20 \\
+Qwen3-8B       & 0 & 20 \\
+Qwen3-14B      & 0 & 20 \\
+Qwen3-30B-A3B  & 0 & 20 \\
+GLM-4.6        & 0 & 20 \\
+DeepSeek-V3.2  & 5 & 20 \\
+Kimi-K2        & 14 & 20 \\
+\midrule
+Fitted $\beta$ (Qwen3 sub-family) & $-1.04$ & $\approx 0$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Neither column supports $\beta \approx 2.0$. The accumulative column saturates at the ceiling of the measurement --- every model satisfies 20 of 20, which is exactly the ``virtual capacity'' behaviour the original paper reports as a control and which, on this evidence, means the accumulative task measures output-stuffing rather than tracking. The binary column is worse: the fitted exponent is negative, and the sign is not a finding but a symptom.
+
+\paragraph{Why the binary column is not a capacity measurement.} We inspected the $k=1$ trials, where a model that can judge a single sentence should be at ceiling. Qwen3-14B scores 0.00, and every one of its three $k=1$ responses begins \texttt{<think>} and continues into a blog post about open-source LLMs; Qwen3-30B-A3B scores 0.00 and begins \texttt{**The Benefits of Open-Source LLMs...**}; GLM-4.6 scores 0.00 and in two of three trials returns an \emph{empty} string. None of these is a failed judgment. Each is a failure to emit a judgment in the requested format. Scoring non-compliance as an incorrect answer produces $k^* = 0$ for a 14B model and $k^* = 5$ for a 4B model, and a negative scaling exponent follows arithmetically.
+
+This is the third failure mode in our taxonomy and the most damaging, because it is invisible: an empty string and a confident wrong answer are the same data point under the original scoring rule.
+
+\section{The Bound Cannot Separate the Two Points}
+\label{sec:bound}
+
+The original paper's Theorem 1 bounds $k^* \leq O(dL/H)$, with $d$ the hidden dimension, $L$ the layer count and $H$ the head count. We read these values from the model metadata actually served.
+
+\begin{table}[H]
+\centering
+\small
+\caption{Architectural quantities for the two models used to fit $\beta$.}
+\label{tab:arch}
+\begin{tabular}{lcccc}
+\toprule
+Model & $L$ & $d$ & $H$ & $dL/H$ \\
+\midrule
+Qwen2.5-1.5B & 28 & 1536 & 12 & 3584 \\
+Qwen2.5-7B   & 28 & 3584 & 28 & 3584 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The quantity that is supposed to bound capacity is \emph{identical} for the two models whose capacities differ by an order of magnitude. The bound is therefore vacuous for the very comparison it was introduced to explain: it admits any $k^*$ up to a constant for both models, so it cannot predict a gap between them. We further note the title ``Theorem'' overstates a bound whose proof is a counting sketch, and that for the measured setting the bound is numerically far above the observables; it constrains nothing that was measured.
+
+We do not claim the architectural intuition is wrong. We claim it is untested by the evidence offered, because the two-point design cannot test it.
+
+\paragraph{A contribution to the scaling claim that the data do support.} Fitting $\beta$ requires at least three well-separated points with intervals. Under the original protocol, a per-$k$ measurement has 3 trials; at $\tau = 0.95$ a single error at $k = 20$ moves the estimate by 0.05, which is the entire margin being tested. The reported exponent is a ratio of two such noisy thresholds.
+
+\section{A Taxonomy of the Failure Modes}
+\label{sec:taxonomy}
+
+\begin{table}[H]
+\centering
+\small
+\caption{Three failure modes, their measured incidence, and their effect on the reported quantity.}
+\label{tab:taxonomy}
+\begin{tabular}{p{0.24\textwidth}p{0.30\textwidth}p{0.36\textwidth}}
+\toprule
+Mode & Measured incidence & Effect \\
+\midrule
+Parser contamination & fallback fired in 28/120 trials (23\%); injected up to 2.7 answers/trial & Answers the model never gave are scored as its answers \\
+Denominator selection & present in every trial using the fallback & Accuracy is computed over filled entries only, so a model that writes less is scored on less \\
+Format non-compliance & all three $k=1$ trials for Qwen3-14B, Qwen3-30B-A3B, GLM-4.6 & An empty or off-format response and a wrong answer are the same score, manufacturing $k^*=0$ and a negative exponent \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The three interact. Contamination supplies answers, denominator selection hides that they were supplied, and non-compliance turns a formatting failure into a capacity estimate. Any one alone would be a defect report; together they produced a published scaling law, a published architectural theorem offered as its explanation, and an abstract that describes the scaling as ``sublinear'' while the body reports a superlinear exponent of 2.0 --- a contradiction internal to the original manuscript.
+
+\section{Protocol for a Credible Measurement}
+\label{sec:protocol}
+
+We state the protocol we would now require, in the form a reviewer can check.
+
+\begin{enumerate}
+\item \textbf{Parse without fallback.} A response yields an answer, or it yields nothing. Nothing is a scored error, never a substituted guess. Whole-response token scans are forbidden as a recovery path.
+\item \textbf{Fix the denominator before seeing the data.} Accuracy is over $k$ items always, so non-compliance lowers the score through the front door rather than through a deleted denominator.
+\item \textbf{Report the compliance rate as a first-class number.} The fraction of trials in which a response was in-format is a measurement, and if it is below 1 the capacity estimate is not interpretable without it.
+\item \textbf{Score the artifact.} Every evaluation that uses a regex over generated text should report what fraction of trials the regex did not cleanly match. This is cheap and it is the number that would have caught all three modes here.
+\item \textbf{Three or more points, with intervals, before any exponent is named.} A two-point exponent is not a scaling law; it is a slope between two measurements, each of which carries a wider interval than the effect being attributed to scale.
+\item \textbf{Name the falsifier.} For a capacity claim, that means a $k$ at which two models of the same family and comparable training diverge in opposite directions, predicted in advance.
+\end{enumerate}
+
+\section{What This Does Not Show}
+\label{sec:limits}
+
+The collapse replicates on two local models and three trials per $k$; we have not established its mechanism, and the saturation value may move with prompt formatting, with the number of keywords drawn, or with decoding. We could not extend the local ladder because three of five models failed to load, so the replication rests on the same two points as the original --- we corrected the law's evidence, not the ladder's width. The API arm is confounded by vendor, serving stack and reasoning-trace behaviour, and we use it only to show that the published exponent is not recoverable, not to estimate a true one. We do not report a $\beta$ of our own: on this evidence, a single exponent would repeat the error we are documenting.
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+The claim that LLM constraint-tracking capacity collapses with $k$, and that smaller models collapse sooner, survives our audit and replicates under a parser that cannot manufacture answers. The claim that this capacity follows $k^* \propto \theta^{2.0}$ does not survive: the exponent rested on two models that the paper's own architectural bound cannot distinguish, was computed through a parser that inserted up to 2.7 answers per trial and scored them, and is not recoverable on eight API-served families. The practical implication is narrower and more useful than the original. Capacity is real and worth measuring; scaling laws about it are not yet available, and the parsing choices that decide whether they appear are ordinary, invisible, and cheap to check.
+
+\section*{Declarations}
+\paragraph{Data and code availability.} The original response logs, the original harness, the corrected parser, the re-run protocol and the aggregation script are available to the editor and reviewers, and will be released on acceptance.
+\paragraph{Use of AI tools.} The models under study are the objects of the measurement, not tools used to produce this manuscript. The textual features that motivate our parser audit (prompt echo, instruction restatement) arise from the models' own outputs.
+\paragraph{Competing interests.} The author is the author of the manuscript audited here. This is disclosed because it is material: the audit is self-directed, and the replication reported in Section~\ref{sec:replication} was run by the same author who wrote the original harness.
+\paragraph{Ethics.} The work involves no human subjects. The task texts are synthetic sentences over benign keywords.
+
+\begin{thebibliography}{9}
+\bibitem{zhang2026a} Y. Zhang, ``Safety Dimensionality Collapse: The Representational Limit of Multi-Constraint Tracking in Large Language Models,'' manuscript, 2026. (Audited here.)
+\bibitem{kaplan2020} J. Kaplan, S. McCandlish, T. Henighan, et al., ``Scaling laws for neural language models,'' arXiv:2001.08361, 2020.
+\bibitem{liu2023} N. F. Liu, K. Lin, J. Hewitt, et al., ``Lost in the middle: How language models use long contexts,'' TACL, 2023.
+\bibitem{followbench} Anon., ``FollowBench: A multi-level fine-grained constraints following benchmark for LLMs,'' arXiv, 2023.
+\bibitem{xstest} P. R\"ottger, H. R. Kirk, B. Vidgen, et al., ``XSTest: A test suite for identifying exaggerated safety behaviours in large language models,'' NAACL, 2024.
+\bibitem{wildguard} S. Han, K. Rao, A. Ettinger, et al., ``WildGuard: Open one-stop moderation tools for safety risks, jailbreaks, and refusals of LLMs,'' NeurIPS Datasets and Benchmarks, 2024.
+\bibitem{wilson} E. B. Wilson, ``Probable inference, the law of succession, and statistical inference,'' JASA, 1927.
+\bibitem{sarkar2025} A. Sarkar, ``A review of methodologies for evaluating alignment in large language models,'' AI and Ethics, 5, 3233--3240, 2025.
+\end{thebibliography}
+\end{document}

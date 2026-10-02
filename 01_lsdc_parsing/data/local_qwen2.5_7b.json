@@ -1,0 +1,562 @@
+{
+  "1": {
+    "k": 1,
+    "avg_correct": 1.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 1,
+        "total": 1,
+        "rate": 1.0,
+        "raw": "Yes"
+      },
+      {
+        "ok": true,
+        "correct": 1,
+        "total": 1,
+        "rate": 1.0,
+        "raw": "Yes"
+      },
+      {
+        "ok": true,
+        "correct": 1,
+        "total": 1,
+        "rate": 1.0,
+        "raw": "Yes"
+      }
+    ]
+  },
+  "2": {
+    "k": 2,
+    "avg_correct": 2.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 2,
+        "total": 2,
+        "rate": 1.0,
+        "raw": "Yes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 2,
+        "total": 2,
+        "rate": 1.0,
+        "raw": "Yes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 2,
+        "total": 2,
+        "rate": 1.0,
+        "raw": "No\nNo"
+      }
+    ]
+  },
+  "3": {
+    "k": 3,
+    "avg_correct": 3.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 3,
+        "total": 3,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 3,
+        "total": 3,
+        "rate": 1.0,
+        "raw": "No\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 3,
+        "total": 3,
+        "rate": 1.0,
+        "raw": "No\nNo\nNo"
+      }
+    ]
+  },
+  "4": {
+    "k": 4,
+    "avg_correct": 4.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 4,
+        "total": 4,
+        "rate": 1.0,
+        "raw": "No\nYes\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 4,
+        "total": 4,
+        "rate": 1.0,
+        "raw": "No\nYes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 4,
+        "total": 4,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nYes\nYes"
+      }
+    ]
+  },
+  "5": {
+    "k": 5,
+    "avg_correct": 4.666666666666667,
+    "accuracy": 0.9333333333333332,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 5,
+        "total": 5,
+        "rate": 1.0,
+        "raw": "No\nYes\nNo\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 4,
+        "total": 5,
+        "rate": 0.8,
+        "raw": "No\nNo\nNo\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 5,
+        "total": 5,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nNo\nYes"
+      }
+    ]
+  },
+  "6": {
+    "k": 6,
+    "avg_correct": 6.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 6,
+        "total": 6,
+        "rate": 1.0,
+        "raw": "No\nYes\nYes\nNo\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 6,
+        "total": 6,
+        "rate": 1.0,
+        "raw": "No\nNo\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 6,
+        "total": 6,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nYes\nNo\nYes"
+      }
+    ]
+  },
+  "7": {
+    "k": 7,
+    "avg_correct": 7.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 7,
+        "total": 7,
+        "rate": 1.0,
+        "raw": "No\nYes\nYes\nNo\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 7,
+        "total": 7,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 7,
+        "total": 7,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nNo\nYes\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "8": {
+    "k": 8,
+    "avg_correct": 8.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 8,
+        "total": 8,
+        "rate": 1.0,
+        "raw": "No\nYes\nYes\nNo\nNo\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 8,
+        "total": 8,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 8,
+        "total": 8,
+        "rate": 1.0,
+        "raw": "No\nYes\nYes\nYes\nNo\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "9": {
+    "k": 9,
+    "avg_correct": 9.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 9,
+        "total": 9,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 9,
+        "total": 9,
+        "rate": 1.0,
+        "raw": "No\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 9,
+        "total": 9,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes"
+      }
+    ]
+  },
+  "10": {
+    "k": 10,
+    "avg_correct": 10.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 10,
+        "total": 10,
+        "rate": 1.0,
+        "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 10,
+        "total": 10,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 10,
+        "total": 10,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo"
+      }
+    ]
+  },
+  "11": {
+    "k": 11,
+    "avg_correct": 11.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 11,
+        "total": 11,
+        "rate": 1.0,
+        "raw": "No\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 11,
+        "total": 11,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 11,
+        "total": 11,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "12": {
+    "k": 12,
+    "avg_correct": 12.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 12,
+        "total": 12,
+        "rate": 1.0,
+        "raw": "No\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 12,
+        "total": 12,
+        "rate": 1.0,
+        "raw": "No\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 12,
+        "total": 12,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nNo"
+      }
+    ]
+  },
+  "13": {
+    "k": 13,
+    "avg_correct": 13.0,
+    "accuracy": 1.0,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 13,
+        "rate": 1.0,
+        "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 13,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 13,
+        "rate": 1.0,
+        "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "14": {
+    "k": 14,
+    "avg_correct": 12.666666666666666,
+    "accuracy": 0.9047619047619048,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 12,
+        "total": 14,
+        "rate": 0.8571428571428571,
+        "raw": "No\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 14,
+        "rate": 0.9285714285714286,
+        "raw": "No\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 14,
+        "rate": 0.9285714285714286,
+        "raw": "No\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo"
+      }
+    ]
+  },
+  "15": {
+    "k": 15,
+    "avg_correct": 14.333333333333334,
+    "accuracy": 0.9555555555555556,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 15,
+        "rate": 0.9333333333333333,
+        "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 15,
+        "total": 15,
+        "rate": 1.0,
+        "raw": "No\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 15,
+        "rate": 0.9333333333333333,
+        "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "16": {
+    "k": 16,
+    "avg_correct": 14.666666666666666,
+    "accuracy": 0.9166666666666666,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 16,
+        "rate": 0.875,
+        "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 16,
+        "total": 16,
+        "rate": 1.0,
+        "raw": "No\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 16,
+        "rate": 0.875,
+        "raw": "No\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nYes"
+      }
+    ]
+  },
+  "17": {
+    "k": 17,
+    "avg_correct": 14.333333333333334,
+    "accuracy": 0.8431372549019608,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 17,
+        "rate": 0.7647058823529411,
+        "raw": "No\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 16,
+        "total": 17,
+        "rate": 0.9411764705882353,
+        "raw": "No\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 17,
+        "rate": 0.8235294117647058,
+        "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo"
+      }
+    ]
+  },
+  "18": {
+    "k": 18,
+    "avg_correct": 16.666666666666668,
+    "accuracy": 0.9259259259259259,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 17,
+        "total": 18,
+        "rate": 0.9444444444444444,
+        "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 17,
+        "total": 18,
+        "rate": 0.9444444444444444,
+        "raw": "Yes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 16,
+        "total": 18,
+        "rate": 0.8888888888888888,
+        "raw": "No\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "19": {
+    "k": 19,
+    "avg_correct": 14.333333333333334,
+    "accuracy": 0.7543859649122808,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 15,
+        "total": 19,
+        "rate": 0.7894736842105263,
+        "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 13,
+        "total": 19,
+        "rate": 0.6842105263157895,
+        "raw": "Yes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 15,
+        "total": 19,
+        "rate": 0.7894736842105263,
+        "raw": "Yes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes"
+      }
+    ]
+  },
+  "20": {
+    "k": 20,
+    "avg_correct": 15.666666666666666,
+    "accuracy": 0.7833333333333333,
+    "trials": [
+      {
+        "ok": true,
+        "correct": 14,
+        "total": 20,
+        "rate": 0.7,
+        "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes"
+      },
+      {
+        "ok": true,
+        "correct": 16,
+        "total": 20,
+        "rate": 0.8,
+        "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo"
+      },
+      {
+        "ok": true,
+        "correct": 17,
+        "total": 20,
+        "rate": 0.85,
+        "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo"
+      }
+    ]
+  }
+}

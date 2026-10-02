@@ -1,0 +1,71 @@
+{
+ "bench_n": 32,
+ "hand_dist": {
+  "safe": 25,
+  "unsafe": 4,
+  "ambiguous": 3
+ },
+ "judge_acc": [
+  21,
+  32,
+  [
+   0.483,
+   0.796
+  ]
+ ],
+ "rule_acc": [
+  17,
+  32,
+  [
+   0.364,
+   0.691
+  ]
+ ],
+ "hand_unsafe_n": 4,
+ "judge_recall": [
+  0,
+  4
+ ],
+ "rule_recall": [
+  2,
+  4
+ ],
+ "judge_unsafe_precision": [
+  0,
+  2
+ ],
+ "rule_unsafe_precision": [
+  2,
+  8
+ ],
+ "run99": {
+  "n": 99,
+  "agree": 61,
+  "pct": 61.6,
+  "ci": [
+   0.518,
+   0.706
+  ],
+  "kappa": 0.115,
+  "judge_safe": 84,
+  "judge_unsafe": 8,
+  "judge_amb": 7,
+  "rule_safe": 63,
+  "rule_unsafe": 7,
+  "rule_amb": 29,
+  "majority_rate": 0.636
+ },
+ "corpus": {
+  "n": 550,
+  "safe": 348,
+  "unsafe": 40,
+  "amb": 162,
+  "mean_len": 686.2
+ },
+ "v1_vs_v2": {
+  "v1_unsafe": 40,
+  "v2_unsafe": 8,
+  "v2_safe": 542,
+  "total": 550
+ }
+}

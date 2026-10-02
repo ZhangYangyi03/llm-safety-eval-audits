@@ -1,0 +1,157 @@
+
+\documentclass[11pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{booktabs,amsmath,amssymb}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
+\title{\bfseries Neither the Judge nor the Rules:\\ Instrument-Validity Failure in Safety-Response Classification}
+\author{Yangyi Zhang\\ Department of Computer Science, Georgetown University, Washington, DC, USA\\ \texttt{yangyi.zhang@georgetown.edu}}
+\date{}
+\begin{document}\maketitle
+
+\begin{abstract}
+\noindent
+Safety evaluations of large language models increasingly rely on automated labelling of model responses, and the two dominant instruments are the LLM-as-judge and hand-authored rule-based classifiers. The literature argues, correctly, that an LLM judge introduces a circular dependency: the evaluator shares the alignment vulnerabilities of the system it evaluates. The proposed remedy---replace the judge with a deterministic rule-based classifier---has been widely adopted, but has not itself been validated as a measurement instrument. We audit both instruments against an independent, hand-labelled benchmark of 32 responses drawn from a 550-trial corpus. Neither instrument is accurate. A 1.5B-parameter LLM judge reaches 65.6\% accuracy (95\% CI 48.3--79.6) against human labels and recalls \emph{none} of the four genuinely unsafe responses; both responses it did label unsafe were in fact safe refusals. The rule-based classifier reaches 53.1\% (CI 36.4--69.1), recalls two of four unsafe responses, and labels six clean refusals unsafe. On the full corpus the two instruments agree on 61.6\% of items, but the chance-corrected agreement is $\kappa=0.115$: the raw agreement is almost entirely explained by the fact that 63\% of the corpus is a single class, and the judge collapses to that majority class on 84 of 99 items. We further show that the rule classifier's own unsafe count is unstable across its own versions (40 versus 8 of 550 responses), and that neither version was ever validated. We conclude that rule-based classifiers are not a neutral default but measurement instruments with unmeasured error, and we give a minimal validation protocol: report per-class recall and $\kappa$, not agreement; validate every instrument against a held-out hand-labelled benchmark; and report the instrument's own error profile alongside any safety figure it produces.
+\end{abstract}
+
+\noindent\textbf{Keywords:} safety evaluation, LLM-as-judge, measurement validity, reproducibility, rule-based classification
+
+\section{Introduction}
+Automated safety evaluation of large language models rests on an assumption that is rarely stated and almost never tested: that the instrument doing the labelling is a valid measure of the property it names. Two instruments dominate. The first is the LLM-as-judge, in which a language model is asked to label the safety of another model's response. The second is the hand-authored rule-based classifier, in which regular expressions over refusal and harmful-content patterns assign a label.
+
+The critique of the first instrument is well established and correct. A judge drawn from the same model family as its subject shares the alignment behaviour it is meant to measure; using a 1.5B judge to evaluate a 7B model of the same family makes the evaluator subject to the same refusal dynamics as the evaluated. This circularity is a real methodological hazard, and papers that quantify judge unreliability perform a genuine service.
+
+The remedy, however, was adopted faster than it was tested. Rule-based classifiers are presented as deterministic, auditable, and therefore trustworthy: because the rules are inspectable and the output is reproducible, the classification is treated as ground truth rather than as another measurement with its own error. This paper shows that the inference from \emph{deterministic} to \emph{valid} does not hold, and that the failure is not marginal. In a hand-labelled audit of a corpus that was previously analysed entirely with a rule classifier, the rule classifier is wrong on nearly half the audited items, its errors run in both directions, and its count of unsafe responses depends on which version of the rules is loaded.
+
+The contribution of this paper is an audit, not a new classifier. We do three things. First, we hand-label a stratified benchmark drawn from a 550-trial corpus and measure both instruments against it. Second, we re-run the LLM judge on the corpus and report chance-corrected agreement, which exposes what raw agreement hides. Third, we show that the rule classifier's own unsafe count is not stable across its versions, and that no version was ever validated against anything. We then state the minimal protocol that would have caught all of this before publication.
+
+\section{Background}
+\subsection{LLM-as-judge}
+Using a language model to grade language model output is now standard practice... [cite Zheng et al. 2023]. Reported failure modes include position bias, verbosity bias, and self-preference. The critique relevant here is the circularity one: when the judge is drawn from the same family as the judged, refusal behaviour in the judge is confounded with safety assessment of the response.
+
+\subsection{Rule-based and keyword classifiers}
+Deterministic pattern-matching classifiers are the standard alternative in safety pipelines because they require no inference, are cheap, and are reproducible. Their adoption rests on an implicit validity argument: the rules encode the definition of the label, therefore agreement with the rules is the label. This conflates the operationalisation of a construct with the construct. A refusal-pattern list operationalises \emph{looks like a refusal}; whether it captures \emph{is safe} is exactly the question that requires validation, and a deterministic procedure cannot validate itself, because it will reproduce its own errors identically on every run.
+
+\subsection{Measurement validity in ML evaluation}
+Recent work in the measurement tradition argues that evaluation scores are measurements produced by instruments, and that instrument error must be characterised rather than assumed away. This paper is an instance of that argument in the safety-classification setting.
+
+\section{The Two Instruments}
+\subsection{Instrument A: LLM judge}
+A 1.5B instruction-tuned model (qwen2.5:1.5b) is given a fixed system instruction defining three labels---\textsc{Safe-Refusal} (the model clearly refuses or redirects without giving harmful help), \textsc{Unsafe} (the model provides actionable harmful content, even partially), and \textsc{Ambiguous} (neither a clear refusal nor actionable harm)---followed by the request and the response, with temperature 0 and a 10-token budget. The label is parsed from the first matching category token.
+
+\subsection{Instrument B: rule-based classifier}
+The rule-based classifier (referred to below as v1) assigns one of \textsc{Safe\_Refusal}, \textsc{Unsafe}, \textsc{Ambiguous} by matched refusal patterns and harmful-content patterns, with the harmful-content match taking precedence when both fire. The corpus labels analysed in prior work were produced by this instrument with zero manual inspection. A later revision of the same classifier, v2, adds word-boundary refusal detection and a compliance check before an unsafe label is emitted, and returns lowercase labels.
+
+\section{Audit Design}
+\subsection{Corpus}
+The corpus is 550 model responses spanning three open-weight families (Qwen2.5 7B, Llama 3 8B, Mistral 7B) plus two smaller configurations, 22 adversarial prompts across 10 harm categories, and two languages. Its composition under the v1 instrument, recomputed from the stored results, is 348 \textsc{Safe\_Refusal} (63.3\%), 162 \textsc{Ambiguous} (29.5\%), and 40 \textsc{Unsafe} (7.3\%), with a mean response length of 686.2 characters (347.2 for \textsc{Safe\_Refusal} responses, 1188.3 for \textsc{Unsafe}). These figures reproduce exactly, so the corpus itself is not in question; what is in question is whether its labels mean what they are named.
+
+\subsection{Hand-labelled benchmark}
+Because both instruments are automated, neither can serve as the reference for the other. We therefore hand-labelled a benchmark of 32 responses drawn from the corpus by stratified sampling, preserving the class proportions of the corpus under v1. Each response was read in full, together with its prompt, and assigned \textsc{safe}, \textsc{unsafe}, or \textsc{ambiguous} by the definition used for the construct: a response is \textsc{unsafe} if it delivers actionable harmful content, even partially---a phishing template, steps for a harmful act, operational bypass instructions---regardless of how it is prefaced, and is \textsc{safe} if it withholds that content whether by refusal, deflection, or a factual correction. The label \textsc{ambiguous} is reserved for responses that neither withhold nor deliver, such as off-topic or incoherent output.
+
+The benchmark contains 25 \textsc{safe}, 4 \textsc{unsafe}, and 3 \textsc{ambiguous} responses.
+
+\section{Results}
+\subsection{Neither instrument is accurate}
+Table~\ref{tab:acc} reports agreement of each instrument with the hand labels.
+
+\begin{table}[h]\centering
+\caption{Agreement with hand labels ($n=32$). Intervals are 95\% Wilson.}
+\label{tab:acc}
+\begin{tabular}{lccc}
+\toprule
+Instrument & correct & accuracy & 95\% CI \\
+\midrule
+LLM judge (1.5B) & 21/32 & 65.6\% & 48.3--79.6\% \\
+Rule classifier v1 & 17/32 & 53.1\% & 36.4--69.1\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The rule-based classifier---the instrument that was treated as ground truth---is at 53.1\%, barely above chance for a three-class task and not distinguishable from it at this sample size. The judge is more accurate in aggregate, but for the reason given below, aggregate accuracy is the wrong summary.
+
+\subsection{The errors that matter are the unsafe ones}
+For a safety instrument, the errors that matter are errors on the unsafe class, because a false negative certifies harmful content as safe. Table~\ref{tab:unsafe} reports recall and precision on the unsafe class of the benchmark.
+
+\begin{table}[h]\centering
+\caption{Performance on the unsafe class ($n_{\text{unsafe}}=4$ hand-labelled).}
+\label{tab:unsafe}
+\begin{tabular}{lcccc}
+\toprule
+Instrument & tp & fp & recall & precision \\
+\midrule
+LLM judge (1.5B) & 0 & 2 & 0/4 (0\%) & 0/2 (0\%) \\
+Rule classifier v1 & 2 & 6 & 2/4 (50\%) & 2/8 (25\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The judge recalled none of the four genuinely unsafe responses and emitted \textsc{Unsafe} twice, both times on responses that were clean refusals. The rule classifier did better on recall and worse on precision: of its eight unsafe labels, six were clean refusals such as \emph{``I cannot provide instructions on how to pick a lock\ldots this would be illegal and unethical''}. In other words the instrument's false-positive mode is to read a refusal that lists the harm it is declining to assist with as delivery of that harm.
+
+The failure runs the other way too. Two responses that the hand labels call unsafe---both from Mistral 7B, one a phishing email template complete with a malicious link placeholder, one a routed set of car-theft steps---were labelled \textsc{Ambiguous} by the rule classifier, because the classifier's harmful-content patterns did not fire. A deterministic classifier is exactly as confident when it is wrong as when it is right; that is the property that makes its errors invisible in the published counts.
+
+\subsection{Raw agreement hides the collapse}
+We then re-ran the LLM judge over the whole corpus, temperature 0, 99 responses labelled (one item was dropped in stratified sampling). The two instruments agree on 61.6\% of items (61/99; 95\% CI 51.8--70.6\%). Reported alone, that figure reads as moderate agreement and would be defended as such.
+
+It is not agreement. Table~\ref{tab:collapse} gives the marginal distributions.
+
+\begin{table}[h]\centering
+\caption{Marginal label distributions, 99-item re-run.}
+\label{tab:collapse}
+\begin{tabular}{lccc}
+\toprule
+Instrument & \textsc{Safe\_Refusal} & \textsc{Ambiguous} & \textsc{Unsafe} \\
+\midrule
+Rule classifier v1 & 63 & 29 & 7 \\
+LLM judge (1.5B) & 84 & 7 & 8 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Cohen's $\kappa$ for the pair is $0.115$---\emph{slight} agreement. The agreement rate is almost entirely the base rate: the majority class accounts for 63.6\% of the corpus, so an instrument that always answered \textsc{Safe\_Refusal} would score 63.6\% and $\kappa=0$ against the rule labels. The judge answers \textsc{Safe\_Refusal} on 84 of 99 items. It has, in effect, collapsed to a majority-class predictor, and the raw agreement statistic reports that collapse as 61.6\% consensus.
+
+This is the central methodological point of the paper. The prior critique of the LLM judge was that it is \emph{unreliable}, and reliability was operationalised as agreement with the rule classifier. The re-run reproduces the number---61.6\% against the earlier 58\%---but the number does not mean what it was taken to mean, because the reference instrument is itself 53\% accurate and the majority-class structure inflates any agreement between two instruments that share it.
+
+\subsection{The rule classifier is not stable across its own versions}
+The v1 labels are unsafe for 40 of 550 responses. Running the later revision of the same classifier, v2, over the same 550 responses yields 542 \textsc{safe} and 8 \textsc{unsafe}, and an \textsc{ambiguous} category that is never emitted at all. Of the 40 responses v1 called unsafe, v2 calls 39 safe and 1 unsafe. Of the 162 v1 called ambiguous, v2 calls 155 safe and 7 unsafe.
+
+\begin{table}[h]\centering
+\caption{Two versions of the same rule classifier over the same 550 responses.}
+\label{tab:versions}
+\begin{tabular}{lccc}
+\toprule
+Version & \textsc{Safe} & \textsc{Unsafe} & \textsc{Ambiguous} \\
+\midrule
+v1 (labels analysed in prior work) & 348 & 40 & 162 \\
+v2 (later revision, lowercase API) & 542 & 8 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The unsafe count for one fixed corpus, under one project's own rules, moved by a factor of five. No mechanism reports this to the reader, because both versions are deterministic and both are internally consistent: determinism guarantees that a rule set reproduces its own decisions, not that different rule sets converge. Any safety figure computed from these labels inherits an error of the same order as the effect it reports.
+
+\section{What Would Have Caught This}
+Every failure above is visible to a reader who is shown the instrument's errors and invisible to a reader who is shown only its output. The following protocol is the minimum that would have prevented the errors from reaching a manuscript.
+
+\begin{enumerate}
+\item \textbf{Validate the instrument against something that is not an instrument.} Hand-label a stratified benchmark and report the classifier's accuracy on it, before reporting any figure the classifier produces. Budget the annotation; a 32-item benchmark is enough to catch a 53\% classifier.
+\item \textbf{Report chance-corrected agreement, not agreement.} With a 63\% majority class, raw agreement is a base-rate statistic. $\kappa$, or per-class recall, must accompany it. A number of the form ``the judge agrees with our classifier $X$\% of the time'' should not be publishable without $\kappa$.
+\item \textbf{Report per-class recall and precision, and name the error direction.} For a safety instrument a false negative is not symmetric with a false positive; a single recall figure on the unsafe class is the number that determines whether an audit certifies harmful content as safe.
+\item \textbf{Freeze the instrument and publish it.} A classifier whose label distribution moves by a factor of five between versions is not a fixed instrument. Report the version, publish the rule set, and treat any revision as producing a new instrument requiring its own validation.
+\item \textbf{Do not use one unvalidated instrument to validate another.} The circularity the rule classifier was introduced to avoid is replaced, not removed, when the rule classifier is itself unvalidated; the judgement is simply moved somewhere less inspectable.
+\end{enumerate}
+
+\section{Limitations}
+The benchmark is 32 items labelled by a single annotator, so its confidence intervals are wide and no inter-annotator agreement can be reported; the direction of the error, however, is unambiguous, since the disputed items are inspectable one by one. Only one judge size (1.5B) was tested; a larger judge may fail differently, and the comparison here is between a specific small judge and a specific rule set, not between the two paradigms in general. The corpus is drawn from open-weight models on a fixed prompt set, so the prevalence of clean refusals is a property of that corpus; corpora with more genuinely unsafe content would shift the base rates and change the rule classifier's precision. Finally, the audit was carried out by the author of the original analysis, which is useful for access to the instrument's history and undesirable as a source of independent judgement; the hand labels and both instruments' outputs are released so that the benchmark can be re-annotated by others.
+
+\section{Conclusion}
+The critique of LLM-as-judge is correct and the remedy that was adopted in its place is not. A deterministic rule-based classifier is a measurement instrument with an error profile, and on this corpus that profile is worse than the judge's on the class that matters: it recalls half the unsafe responses and calls six clean refusals unsafe. Both instruments collapse toward the majority class, and the agreement statistic that was used to document the judge's unreliability cannot detect that collapse, because it is not chance-corrected. The lesson is not that rule-based classification is wrong. It is that \emph{deterministic} is not \emph{valid}, that a classifier cannot validate itself, and that the only thing that catches an instrument error is comparing the instrument against labels that were not produced by an instrument.
+
+\begin{thebibliography}{9}
+\bibitem{zheng} L. Zheng et al. Judging LLM-as-a-judge with MT-bench and chatbot arena. \emph{NeurIPS}, 2023.
+\bibitem{wei} J. Wei et al. Assessing the faithfulness of explanations. \emph{NeurIPS}, 2022.
+\bibitem{sainz} O. Sainz et al. NLP evaluation in trouble: on the need to measure LLM data quality. \emph{EMNLP Findings}, 2023.
+\bibitem{jacobs} A. Jacobs and M. Wallach. Measurement and fairness. \emph{FAccT}, 2021.
+\bibitem{liang} P. Liang et al. Holistic evaluation of language models. \emph{TMLR}, 2023.
+\end{thebibliography}
+\end{document}

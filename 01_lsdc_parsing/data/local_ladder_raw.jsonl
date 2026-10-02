@@ -1,0 +1,312 @@
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 3}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 4}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 5}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 6}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 1, "trial": 7}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 3}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 4}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 5}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 6}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 2, "trial": 7}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 3, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 3, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 3, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 3, "trial": 3}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 3, "trial": 4}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 4, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 4, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 4, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 5, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 5, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 5, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 6, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 6, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 6, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 7, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 7, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 7, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 8, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 8, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 8, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 9, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 9, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 9, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 10, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 10, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 10, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 11, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 11, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 11, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 12, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 12, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 12, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 13, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 13, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 13, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 14, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 14, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 14, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 15, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 15, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 15, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 16, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 16, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 16, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 17, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 17, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 17, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 18, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 18, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 18, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 19, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 19, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 19, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 20, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 20, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:0.5b", "k": 20, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes", "model": "qwen2.5:1.5b", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes", "model": "qwen2.5:1.5b", "k": 1, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes", "model": "qwen2.5:1.5b", "k": 1, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes", "model": "qwen2.5:1.5b", "k": 2, "trial": 0}
+{"ok": true, "correct": 1, "total": 2, "rate": 0.5, "acc_vs_k": 0.5, "raw": "No\nYes", "model": "qwen2.5:1.5b", "k": 2, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes", "model": "qwen2.5:1.5b", "k": 2, "trial": 2}
+{"ok": true, "correct": 2, "total": 3, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "Yes\nYes\nNo", "model": "qwen2.5:1.5b", "k": 3, "trial": 0}
+{"ok": true, "correct": 2, "total": 3, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "Yes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 3, "trial": 1}
+{"ok": true, "correct": 2, "total": 3, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "Yes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 3, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes\nYes", "model": "qwen2.5:1.5b", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 4, "trial": 1}
+{"ok": true, "correct": 3, "total": 4, "rate": 0.75, "acc_vs_k": 0.75, "raw": "Yes\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 4, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes\nYes\nNo", "model": "qwen2.5:1.5b", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 5, "trial": 1}
+{"ok": true, "correct": 4, "total": 5, "rate": 0.8, "acc_vs_k": 0.8, "raw": "Yes\nYes\nNo\nYes\nYes", "model": "qwen2.5:1.5b", "k": 5, "trial": 2}
+{"ok": true, "correct": 4, "total": 6, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "Yes\nYes\nYes\nNo\nNo\nYes", "model": "qwen2.5:1.5b", "k": 6, "trial": 0}
+{"ok": true, "correct": 4, "total": 6, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "No\nNo\nNo\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 6, "trial": 1}
+{"ok": true, "correct": 5, "total": 6, "rate": 0.8333333333333334, "acc_vs_k": 0.8333333333333334, "raw": "No\nNo\nYes\nNo\nNo\nYes", "model": "qwen2.5:1.5b", "k": 6, "trial": 2}
+{"ok": true, "correct": 5, "total": 7, "rate": 0.7142857142857143, "acc_vs_k": 0.7142857142857143, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 7, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes\nNo", "model": "qwen2.5:1.5b", "k": 7, "trial": 1}
+{"ok": true, "correct": 6, "total": 7, "rate": 0.8571428571428571, "acc_vs_k": 0.8571428571428571, "raw": "No\nNo\nYes\nNo\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 7, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 8, "trial": 0}
+{"ok": true, "correct": 7, "total": 8, "rate": 0.875, "acc_vs_k": 0.875, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nNo\nYes", "model": "qwen2.5:1.5b", "k": 8, "trial": 1}
+{"ok": true, "correct": 5, "total": 8, "rate": 0.625, "acc_vs_k": 0.625, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 8, "trial": 2}
+{"ok": true, "correct": 6, "total": 9, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes", "model": "qwen2.5:1.5b", "k": 9, "trial": 0}
+{"ok": true, "correct": 8, "total": 9, "rate": 0.8888888888888888, "acc_vs_k": 0.8888888888888888, "raw": "Yes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 9, "trial": 1}
+{"ok": true, "correct": 7, "total": 9, "rate": 0.7777777777777778, "acc_vs_k": 0.7777777777777778, "raw": "No\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nNo", "model": "qwen2.5:1.5b", "k": 9, "trial": 2}
+{"ok": true, "correct": 5, "total": 10, "rate": 0.5, "acc_vs_k": 0.5, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 10, "trial": 0}
+{"ok": true, "correct": 8, "total": 10, "rate": 0.8, "acc_vs_k": 0.8, "raw": "No\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 10, "trial": 1}
+{"ok": true, "correct": 7, "total": 10, "rate": 0.7, "acc_vs_k": 0.7, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 10, "trial": 2}
+{"ok": true, "correct": 8, "total": 11, "rate": 0.7272727272727273, "acc_vs_k": 0.7272727272727273, "raw": "Yes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 11, "trial": 0}
+{"ok": true, "correct": 9, "total": 11, "rate": 0.8181818181818182, "acc_vs_k": 0.8181818181818182, "raw": "Yes\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 11, "trial": 1}
+{"ok": true, "correct": 7, "total": 11, "rate": 0.6363636363636364, "acc_vs_k": 0.6363636363636364, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 11, "trial": 2}
+{"ok": true, "correct": 10, "total": 12, "rate": 0.8333333333333334, "acc_vs_k": 0.8333333333333334, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo", "model": "qwen2.5:1.5b", "k": 12, "trial": 1}
+{"ok": true, "correct": 10, "total": 12, "rate": 0.8333333333333334, "acc_vs_k": 0.8333333333333334, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 12, "trial": 2}
+{"ok": true, "correct": 10, "total": 13, "rate": 0.7692307692307693, "acc_vs_k": 0.7692307692307693, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes", "model": "qwen2.5:1.5b", "k": 13, "trial": 0}
+{"ok": true, "correct": 10, "total": 13, "rate": 0.7692307692307693, "acc_vs_k": 0.7692307692307693, "raw": "Yes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 13, "trial": 1}
+{"ok": true, "correct": 7, "total": 13, "rate": 0.5384615384615384, "acc_vs_k": 0.5384615384615384, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 13, "trial": 2}
+{"ok": true, "correct": 8, "total": 14, "rate": 0.5714285714285714, "acc_vs_k": 0.5714285714285714, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 14, "trial": 0}
+{"ok": true, "correct": 8, "total": 14, "rate": 0.5714285714285714, "acc_vs_k": 0.5714285714285714, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 14, "trial": 1}
+{"ok": true, "correct": 7, "total": 14, "rate": 0.5, "acc_vs_k": 0.5, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 14, "trial": 2}
+{"ok": true, "correct": 9, "total": 15, "rate": 0.6, "acc_vs_k": 0.6, "raw": "Yes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 15, "trial": 0}
+{"ok": true, "correct": 10, "total": 15, "rate": 0.6666666666666666, "acc_vs_k": 0.6666666666666666, "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 15, "trial": 1}
+{"ok": true, "correct": 11, "total": 15, "rate": 0.7333333333333333, "acc_vs_k": 0.7333333333333333, "raw": "Yes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 15, "trial": 2}
+{"ok": true, "correct": 10, "total": 16, "rate": 0.625, "acc_vs_k": 0.625, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 16, "trial": 0}
+{"ok": true, "correct": 7, "total": 16, "rate": 0.4375, "acc_vs_k": 0.4375, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 16, "trial": 1}
+{"ok": true, "correct": 10, "total": 16, "rate": 0.625, "acc_vs_k": 0.625, "raw": "Yes\nYes\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 16, "trial": 2}
+{"ok": true, "correct": 9, "total": 17, "rate": 0.5294117647058824, "acc_vs_k": 0.5294117647058824, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 17, "trial": 0}
+{"ok": true, "correct": 9, "total": 17, "rate": 0.5294117647058824, "acc_vs_k": 0.5294117647058824, "raw": "No\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 17, "trial": 1}
+{"ok": true, "correct": 8, "total": 17, "rate": 0.47058823529411764, "acc_vs_k": 0.47058823529411764, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo", "model": "qwen2.5:1.5b", "k": 17, "trial": 2}
+{"ok": true, "correct": 8, "total": 18, "rate": 0.4444444444444444, "acc_vs_k": 0.4444444444444444, "raw": "Yes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 18, "trial": 0}
+{"ok": true, "correct": 9, "total": 18, "rate": 0.5, "acc_vs_k": 0.5, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 18, "trial": 1}
+{"ok": true, "correct": 11, "total": 18, "rate": 0.6111111111111112, "acc_vs_k": 0.6111111111111112, "raw": "Yes\nNo\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 18, "trial": 2}
+{"ok": true, "correct": 11, "total": 19, "rate": 0.5789473684210527, "acc_vs_k": 0.5789473684210527, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 19, "trial": 0}
+{"ok": true, "correct": 15, "total": 19, "rate": 0.7894736842105263, "acc_vs_k": 0.7894736842105263, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 19, "trial": 1}
+{"ok": true, "correct": 11, "total": 19, "rate": 0.5789473684210527, "acc_vs_k": 0.5789473684210527, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo", "model": "qwen2.5:1.5b", "k": 19, "trial": 2}
+{"ok": true, "correct": 8, "total": 20, "rate": 0.4, "acc_vs_k": 0.4, "raw": "Yes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:1.5b", "k": 20, "trial": 0}
+{"ok": true, "correct": 12, "total": 20, "rate": 0.6, "acc_vs_k": 0.6, "raw": "No\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes", "model": "qwen2.5:1.5b", "k": 20, "trial": 1}
+{"ok": true, "correct": 12, "total": 20, "rate": 0.6, "acc_vs_k": 0.6, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nYes", "model": "qwen2.5:1.5b", "k": 20, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 1, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 1, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 1, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 2, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 2, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 2, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 3, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 3, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 3, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 4, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 4, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 4, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 5, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 5, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 5, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 6, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 6, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 6, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 7, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 7, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 7, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 8, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 8, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 8, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 9, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 9, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 9, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 10, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 10, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 10, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 11, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 11, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 11, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 12, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 12, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 12, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 13, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 13, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 13, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 14, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 14, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 14, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 15, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 15, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 15, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 16, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 16, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 16, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 17, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 17, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 17, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 18, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 18, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 18, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 19, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 19, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 19, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 20, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 20, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:3b", "k": 20, "trial": 2}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes", "model": "qwen2.5:7b", "k": 1, "trial": 0}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No", "model": "qwen2.5:7b", "k": 1, "trial": 1}
+{"ok": true, "correct": 1, "total": 1, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes", "model": "qwen2.5:7b", "k": 1, "trial": 2}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes", "model": "qwen2.5:7b", "k": 2, "trial": 0}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo", "model": "qwen2.5:7b", "k": 2, "trial": 1}
+{"ok": true, "correct": 2, "total": 2, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes", "model": "qwen2.5:7b", "k": 2, "trial": 2}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes", "model": "qwen2.5:7b", "k": 3, "trial": 0}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nNo", "model": "qwen2.5:7b", "k": 3, "trial": 1}
+{"ok": true, "correct": 3, "total": 3, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nYes", "model": "qwen2.5:7b", "k": 3, "trial": 2}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 4, "trial": 0}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes\nNo", "model": "qwen2.5:7b", "k": 4, "trial": 1}
+{"ok": true, "correct": 4, "total": 4, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 4, "trial": 2}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo", "model": "qwen2.5:7b", "k": 5, "trial": 0}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 5, "trial": 1}
+{"ok": true, "correct": 5, "total": 5, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 5, "trial": 2}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nNo\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 6, "trial": 0}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 6, "trial": 1}
+{"ok": true, "correct": 6, "total": 6, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 6, "trial": 2}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nNo\nNo\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 7, "trial": 0}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 7, "trial": 1}
+{"ok": true, "correct": 7, "total": 7, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 7, "trial": 2}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nYes\nYes\nYes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 8, "trial": 0}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nYes\nNo", "model": "qwen2.5:7b", "k": 8, "trial": 1}
+{"ok": true, "correct": 8, "total": 8, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 8, "trial": 2}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nNo", "model": "qwen2.5:7b", "k": 9, "trial": 0}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 9, "trial": 1}
+{"ok": true, "correct": 9, "total": 9, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nYes\nYes\nNo\nNo", "model": "qwen2.5:7b", "k": 9, "trial": 2}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nNo\nNo", "model": "qwen2.5:7b", "k": 10, "trial": 0}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 10, "trial": 1}
+{"ok": true, "correct": 10, "total": 10, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 10, "trial": 2}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 11, "trial": 0}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 11, "trial": 1}
+{"ok": true, "correct": 11, "total": 11, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 11, "trial": 2}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "acc_vs_k": 1.0, "raw": "Yes\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 12, "trial": 0}
+{"ok": true, "correct": 12, "total": 12, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo", "model": "qwen2.5:7b", "k": 12, "trial": 1}
+{"ok": true, "correct": 10, "total": 12, "rate": 0.8333333333333334, "acc_vs_k": 0.8333333333333334, "raw": "No\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo", "model": "qwen2.5:7b", "k": 12, "trial": 2}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 13, "trial": 0}
+{"ok": true, "correct": 12, "total": 13, "rate": 0.9230769230769231, "acc_vs_k": 0.9230769230769231, "raw": "Yes\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 13, "trial": 1}
+{"ok": true, "correct": 13, "total": 13, "rate": 1.0, "acc_vs_k": 1.0, "raw": "No\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes\nNo\nNo", "model": "qwen2.5:7b", "k": 13, "trial": 2}
+{"ok": true, "correct": 11, "total": 14, "rate": 0.7857142857142857, "acc_vs_k": 0.7857142857142857, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 14, "trial": 0}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "acc_vs_k": 0.9285714285714286, "raw": "No\nYes\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 14, "trial": 1}
+{"ok": true, "correct": 13, "total": 14, "rate": 0.9285714285714286, "acc_vs_k": 0.9285714285714286, "raw": "No\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 14, "trial": 2}
+{"ok": true, "correct": 14, "total": 15, "rate": 0.9333333333333333, "acc_vs_k": 0.9333333333333333, "raw": "No\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 15, "trial": 0}
+{"ok": true, "correct": 13, "total": 15, "rate": 0.8666666666666667, "acc_vs_k": 0.8666666666666667, "raw": "Yes\nNo\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 15, "trial": 1}
+{"ok": true, "correct": 13, "total": 15, "rate": 0.8666666666666667, "acc_vs_k": 0.8666666666666667, "raw": "Yes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes", "model": "qwen2.5:7b", "k": 15, "trial": 2}
+{"ok": true, "correct": 15, "total": 16, "rate": 0.9375, "acc_vs_k": 0.9375, "raw": "Yes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 16, "trial": 0}
+{"ok": true, "correct": 14, "total": 16, "rate": 0.875, "acc_vs_k": 0.875, "raw": "Yes\nYes\nYes\nYes\nNo\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 16, "trial": 1}
+{"ok": true, "correct": 13, "total": 16, "rate": 0.8125, "acc_vs_k": 0.8125, "raw": "No\nNo\nNo\nYes\nNo\nYes\nNo\nNo\nNo\nNo\nNo\nYes\nYes\nYes\nNo\nNo", "model": "qwen2.5:7b", "k": 16, "trial": 2}
+{"ok": true, "correct": 16, "total": 17, "rate": 0.9411764705882353, "acc_vs_k": 0.9411764705882353, "raw": "No\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 17, "trial": 0}
+{"ok": true, "correct": 15, "total": 17, "rate": 0.8823529411764706, "acc_vs_k": 0.8823529411764706, "raw": "Yes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nNo\nNo\nNo\nYes\nYes\nNo\nYes", "model": "qwen2.5:7b", "k": 17, "trial": 1}
+{"ok": true, "correct": 15, "total": 17, "rate": 0.8823529411764706, "acc_vs_k": 0.8823529411764706, "raw": "Yes\nYes\nNo\nYes\nYes\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 17, "trial": 2}
+{"ok": true, "correct": 13, "total": 18, "rate": 0.7222222222222222, "acc_vs_k": 0.7222222222222222, "raw": "Yes\nYes\nNo\nYes\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo", "model": "qwen2.5:7b", "k": 18, "trial": 0}
+{"ok": true, "correct": 17, "total": 18, "rate": 0.9444444444444444, "acc_vs_k": 0.9444444444444444, "raw": "No\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 18, "trial": 1}
+{"ok": true, "correct": 16, "total": 18, "rate": 0.8888888888888888, "acc_vs_k": 0.8888888888888888, "raw": "Yes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes", "model": "qwen2.5:7b", "k": 18, "trial": 2}
+{"ok": true, "correct": 16, "total": 19, "rate": 0.8421052631578947, "acc_vs_k": 0.8421052631578947, "raw": "Yes\nNo\nNo\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nNo", "model": "qwen2.5:7b", "k": 19, "trial": 0}
+{"ok": true, "correct": 16, "total": 19, "rate": 0.8421052631578947, "acc_vs_k": 0.8421052631578947, "raw": "No\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nNo\nYes\nYes\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 19, "trial": 1}
+{"ok": true, "correct": 14, "total": 19, "rate": 0.7368421052631579, "acc_vs_k": 0.7368421052631579, "raw": "No\nNo\nNo\nNo\nNo\nNo\nNo\nYes\nNo\nNo\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 19, "trial": 2}
+{"ok": true, "correct": 15, "total": 20, "rate": 0.75, "acc_vs_k": 0.75, "raw": "No\nNo\nYes\nNo\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nNo\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 20, "trial": 0}
+{"ok": true, "correct": 17, "total": 20, "rate": 0.85, "acc_vs_k": 0.85, "raw": "Yes\nNo\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nNo\nYes\nYes\nNo\nNo\nYes\nNo\nYes\nYes\nNo", "model": "qwen2.5:7b", "k": 20, "trial": 1}
+{"ok": true, "correct": 17, "total": 20, "rate": 0.85, "acc_vs_k": 0.85, "raw": "No\nYes\nYes\nYes\nYes\nYes\nNo\nYes\nYes\nYes\nYes\nNo\nNo\nYes\nYes\nNo\nNo\nYes\nYes\nYes", "model": "qwen2.5:7b", "k": 20, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 1, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 1, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 1, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 2, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 2, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 2, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 3, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 3, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 3, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 4, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 4, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 4, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 5, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 5, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 5, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 6, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 6, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 6, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 7, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 7, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 7, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 8, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 8, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 8, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 9, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 9, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 9, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 10, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 10, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 10, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 11, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 11, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 11, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 12, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 12, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 12, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 13, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 13, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 13, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 14, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 14, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 14, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 15, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 15, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 15, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 16, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 16, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 16, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 17, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 17, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 17, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 18, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 18, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 18, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 19, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 19, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 19, "trial": 2}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 20, "trial": 0}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 20, "trial": 1}
+{"ok": false, "error": "ERR HTTPError: HTTP Error 500: Internal Server Error", "model": "qwen2.5:14b", "k": 20, "trial": 2}
