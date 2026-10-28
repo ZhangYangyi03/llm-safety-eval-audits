@@ -63,6 +63,17 @@ Each `data/` directory is self-contained JSON/JSONL. Figures and tables were
 computed with Python standard library only; no modelling code is needed to check
 any number claimed in the three papers.
 
+    python scripts/verify_readme_numbers.py
+
+That script recomputes, from the committed data, every figure quoted above and
+exits non-zero on any drift: 944 scored API trials over 8 model families, the
+fallback firing in 28 of 120 local trials, k* = 1 and 13 under a strict parser,
+21/32 and 17/32, 0 of 4 judge recall, 61.6% raw agreement against kappa 0.115,
+3 of 4 prompts already unsafe, 205 listed safety-critical neurons above an
+impact threshold of 0.1 while the stored attribution results contain one, with a
+largest value of 0.156. It runs in CI on every push. A repository whose subject
+is unverified numbers should not itself be a claim taken on faith.
+
 ## Contact
 
 Yangyi Zhang — Department of Computer Science, Georgetown University —
